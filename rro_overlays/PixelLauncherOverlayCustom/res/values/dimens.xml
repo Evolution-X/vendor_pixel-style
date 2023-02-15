@@ -19,4 +19,8 @@
     <dimen name="taskbar_phone_rounded_corner_content_margin">
         @*android:dimen/rounded_corner_content_padding
     </dimen>
+    <!-- The max scale for the wallpaper when it's zoomed in -->
+    <item type="dimen" format="float" name="config_wallpaperMaxScale">@*android:dimen/config_wallpaperMaxScale</item>
+    <!-- Height of the bottom taskbar not including decorations like rounded corners. -->
+    <dimen name="taskbar_size">@*android:dimen/taskbar_frame_height</dimen>
 </resources>
