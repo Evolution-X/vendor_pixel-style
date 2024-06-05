@@ -14,8 +14,18 @@
 # limitations under the License.
 #
 
+# GMS client id base
+ifeq ($(PRODUCT_GMS_CLIENTID_BASE),)
+PRODUCT_SYSTEM_PROPERTIES += \
+    ro.com.google.clientidbase=android-google
+else
+PRODUCT_SYSTEM_PROPERTIES += \
+    ro.com.google.clientidbase=$(PRODUCT_GMS_CLIENTID_BASE)
+endif
+
 # Gboard configuration
 PRODUCT_PRODUCT_PROPERTIES += \
+    ro.com.google.ime.bs_theme=true \
     ro.com.google.ime.theme_id=5 \
     ro.com.google.ime.system_lm_dir=/product/usr/share/ime/google/d3_lms
 
@@ -23,18 +33,38 @@ PRODUCT_PRODUCT_PROPERTIES += \
 PRODUCT_PRODUCT_PROPERTIES += \
     ro.setupwizard.enterprise_mode=1 \
     ro.setupwizard.esim_cid_ignore=00000001 \
-    ro.setupwizard.rotation_locked=true \
+    setupwizard.enable_assist_gesture_training=true \
     setupwizard.feature.baseline_setupwizard_enabled=true \
     setupwizard.feature.day_night_mode_enabled=true \
+    setupwizard.feature.enable_gil= \
+    setupwizard.feature.enable_restore_anytime=true \
+    setupwizard.feature.enable_wifi_tracker=true \
+    setupwizard.feature.lifecycle_refactoring=true \
+    setupwizard.feature.notification_refactoring=true \
     setupwizard.feature.portal_notification=true \
+    setupwizard.feature.provisioning_profile_mode=true \
+    setupwizard.feature.show_digital_warranty=false \
     setupwizard.feature.show_pai_screen_in_main_flow.carrier1839=false \
     setupwizard.feature.show_pixel_tos=true \
     setupwizard.feature.show_support_link_in_deferred_setup=false \
-    setupwizard.feature.skip_button_use_mobile_data.carrier1839=true
+    setupwizard.feature.skip_button_use_mobile_data.carrier1839=true \
+    setupwizard.theme=glif_v4
+
+ifeq ($(PRODUCT_CHARACTERISTICS),tablet)
+PRODUCT_PRODUCT_PROPERTIES += ro.setupwizard.rotation_locked=false
+else
+PRODUCT_PRODUCT_PROPERTIES += ro.setupwizard.rotation_locked=true
+endif
 
 # StorageManager configuration
 PRODUCT_PRODUCT_PROPERTIES += \
+    ro.storage_manager.enabled=false \
     ro.storage_manager.show_opt_in=false
+
+# Google legal
+PRODUCT_PRODUCT_PROPERTIES += \
+    ro.url.legal=http://www.google.com/intl/%s/mobile/android/basic/phone-legal.html \
+    ro.url.legal.android_privacy=http://www.google.com/intl/%s/mobile/android/basic/privacy.html
 
 # OPA configuration
 PRODUCT_PRODUCT_PROPERTIES += \
@@ -42,9 +72,17 @@ PRODUCT_PRODUCT_PROPERTIES += \
 
 # Google Play services configuration
 PRODUCT_PRODUCT_PROPERTIES += \
-    ro.com.google.clientidbase=android-google \
     ro.error.receiver.system.apps=com.google.android.gms \
     ro.atrace.core.services=com.google.android.gms,com.google.android.gms.ui,com.google.android.gms.persistent
+
+# New charging information
+PRODUCT_PRODUCT_PROPERTIES += \
+    charging_string.apply_lotx=true \
+    charging_string.apply_v2=true
+
+# WFC Activation
+PRODUCT_PRODUCT_PROPERTIES += \
+    ro.gwfcactivation.disabled_carriers=1492
 
 # CarrierSetup configuration
 PRODUCT_PRODUCT_PROPERTIES += \
@@ -54,9 +92,19 @@ PRODUCT_PRODUCT_PROPERTIES += \
 PRODUCT_PROPERTY_OVERRIDES += \
     ro.boot.vendor.overlay.theme=com.android.internal.systemui.navbar.gestural;com.google.android.systemui.gxoverlay
 
-# Turn off storage manager
-PRODUCT_PROPERTY_OVERRIDES += \
-    ro.storage_manager.enabled=false
+# Resize GBoard ime key height to TARGET_GBOARD_KEY_HEIGHT
+# Value must be float e.g. 1.2
+ifneq ($(TARGET_GBOARD_KEY_HEIGHT),)
+PRODUCT_PRODUCT_PROPERTIES += \
+    ro.com.google.ime.height_ratio=$(TARGET_GBOARD_KEY_HEIGHT)
+endif
+
+# Google Photos
+PRODUCT_PRODUCT_PROPERTIES += \
+    debug.photos.eraser_camo=1 \
+    debug.photos.eraser_suggestion=1 \
+    debug.photos.force_pixel_eol=1 \
+    debug.photos.p_editr.eraser=1
 
 # Inherit from audio config
 $(call inherit-product, vendor/pixel-style/config/audio.mk)

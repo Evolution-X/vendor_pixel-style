@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="reminder_description">‏‮Set‬‏ ‏‮a‬‏ ‏‮reminder‬‏</string>
+    <string name="saved_status_description">‏‮Unsave‬‏ ‏‮screenshot‬‏</string>
+    <string name="saving_status_description">‏‮Saving‬‏</string>
+    <string name="unsaved_status_description">‏‮Resave‬‏ ‏‮screenshot‬‏</string>
+</resources>

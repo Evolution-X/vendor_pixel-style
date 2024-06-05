@@ -18,7 +18,7 @@
 -->
 <resources>
     <!-- Default value for Settings.ASSIST_LONG_PRESS_HOME_ENABLED -->
-    <!--bool name="config_assistLongPressHomeEnabledDefault">false</bool-->
+    <!--<bool name="config_assistLongPressHomeEnabledDefault">false</bool>-->
 
     <!-- Default value for Settings.ASSIST_TOUCH_GESTURE_ENABLED -->
     <bool name="config_assistTouchGestureEnabledDefault">false</bool>
@@ -45,7 +45,7 @@
     <string name="config_dreamsDefaultComponent" translatable="false">com.google.android.deskclock/com.android.deskclock.Screensaver</string>
 
     <!-- Colon separated list of package names that should be granted DND access -->
-    <string name="config_defaultDndAccessPackages" translatable="false">com.google.android.apps.dreamliner:com.google.android.GoogleCamera:com.google.android.gms:com.google.android.settings.intelligence:com.google.android.apps.wellbeing:com.google.android.apps.safetyhub:com.google.android.dialer:com.google.android.apps.diagnosticstool:com.android.camera</string>
+    <string name="config_defaultDndAccessPackages" translatable="false">com.google.android.apps.dreamliner:com.google.android.GoogleCamera:com.google.android.gms:com.google.android.settings.intelligence:com.google.android.apps.wellbeing:com.google.android.apps.safetyhub:com.google.android.dialer:com.google.android.apps.diagnosticstool</string>
 
     <!-- Control the behavior when the user presses the power and volume up buttons together.
             0 - Nothing
@@ -62,5 +62,5 @@
             4 - Go to voice assist
             5 - Go to assistant (Settings.Secure.ASSISTANT)
     -->
-    <!--integer name="config_longPressOnPowerBehavior">5</integer-->
+    <!--<integer name="config_longPressOnPowerBehavior">5</integer>-->
 </resources>

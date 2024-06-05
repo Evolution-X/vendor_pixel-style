@@ -16,46 +16,50 @@
 
 # Google Overlays
 PRODUCT_PACKAGES += \
-    AccessibilityMenuOverlay \
-    BuiltInPrintServiceOverlay \
-    CaptivePortalLoginOverlay \
+    AvatarPickerPixelOverlay \
     CellBroadcastReceiverOverlay \
     CellBroadcastServiceOverlay \
-    ContactsProviderOverlay \
     DMServiceOverlay \
-    FlipendoOverlay \
     GoogleConfigOverlay \
     GoogleDeviceLockControllerOverlay \
+    GoogleDialerConfOverlay \
     GoogleHealthConnectOverlay \
+    GooglePermissionControllerOverlay \
     GoogleWebViewOverlay \
+    ManagedProvisioningPixelOverlay \
     MediaProviderOverlay \
+    PearlOverlay2024 \
+    PixelAccessibilityMenuOverlay \
+    PixelBuiltInPrintServiceOverlay \
     PixelConfigOverlay2018 \
     PixelConfigOverlay2019 \
     PixelConfigOverlay2019Midyear \
     PixelConfigOverlayCommon \
+    PixelContactsProviderOverlay \
     PixelDocumentsUIGoogleOverlay \
-    PixelFwOverlay \
-    PixelLauncherCustomOverlay \
+    PixelFlipendoOverlay \
+    PixelFrameworkOverlay \
+    PixelLauncherOverlayBlur \
+    PixelLauncherOverlayCustom \
+    PixelSettingsGoogleOverlay \
+    PixelSettingsProviderOverlay \
     PixelSetupWizardOverlay \
-    SettingsGoogleOverlay \
-    SettingsProviderOverlay \
-    SystemUIGoogleOverlay \
-    TeleServiceOverlay \
-    TelecomOverlay \
-    TelephonyProviderOverlay
+    PixelSystemUIGoogleOverlay \
+    PixelTeleServiceOverlay \
+    PixelTelecomOverlay \
+    PixelTelephonyProviderOverlay \
+    PixelTetheringOverlay2021 \
+    SettingsGoogleOverlayEvolutionX \
+    SystemUIGXOverlay \
+    WildlifeSettingsVpnOverlay2022 \
+    WildlifeSysuiVpnOverlay2022
 
-ifneq ($(filter google, $(PRODUCT_BRAND)),)
+ifneq ($(filter panther cheetah lynx felix shiba husky akita tokay caiman komodo frankel blazer mustang, $(LINEAGE_BUILD)),)
 PRODUCT_PACKAGES += \
-    ManagedProvisioningPixelOverlay \
-    PixelBatteryHealthOverlay
+    ClearCallingOverlay
 endif
 
-ifneq ($(filter bluejay panther cheetah lynx felix tangorpro shiba husky, $(TARGET_DEVICE)),)
-PRODUCT_PACKAGES += \
-    PixelConnectivityOverlay2022
-endif
-
-ifneq ($(filter flame coral redfin oriole raven panther cheetah lynx felix shiba husky, $(TARGET_DEVICE)),)
+ifneq ($(filter flame coral redfin oriole raven panther cheetah lynx felix shiba husky akita tokay caiman komodo frankel blazer mustang, $(LINEAGE_BUILD)),)
 PRODUCT_PACKAGES += \
     DreamlinerOverlay
 endif

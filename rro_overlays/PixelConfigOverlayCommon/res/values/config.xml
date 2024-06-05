@@ -70,7 +70,6 @@
     <!-- An array of packages that need to be treated as type service in battery settings -->
     <string-array name="config_batteryPackageTypeService" translatable="false">
         <item>com.google.android.gms</item>
-        <item>com.google.android.apps.gcs</item>
     </string-array>
 
     <!-- The package name list for the system's cloudsearch service.
@@ -158,9 +157,6 @@
     <!-- The package name for the default bug report handler app from power menu short press. This app must be whitelisted. -->
     <string name="config_defaultBugReportHandlerApp" translatable="false">com.google.android.apps.internal.betterbug</string>
 
-    <!-- Whether to show weather on the lock screen by default. -->
-    <bool name="config_lockscreenWeatherEnabledByDefault">true</bool>
-
     <!-- When true, enables the allowlisted app to upload profcollect reports. -->
     <bool name="config_profcollectReportUploaderEnabled">true</bool>
 
@@ -193,8 +189,20 @@
     -->
     <string name="config_defaultContentSuggestionsService" translatable="false">com.google.android.as/com.google.android.apps.miphone.aiai.app.AiAiContentSuggestionsService</string>
 
+    <!-- The key containing the branching boolean for Contextual Search. -->
+    <string name="config_defaultContextualSearchEnabled" translatable="false">omni.enable_cs_helper</string>
+
+    <!-- The key containing the entrypoint for Contextual Search. -->
+    <string name="config_defaultContextualSearchKey" translatable="false">omni.entry_point</string>
+
+    <!-- The key containing the branching boolean for legacy Search. -->
+    <string name="config_defaultContextualSearchLegacyEnabled" translatable="false">omni.enable_vis</string>
+
+    <!-- Name of the package responsible to handle Contextual Search. -->
+    <string name="config_defaultContextualSearchPackageName" translatable="false">com.google.android.googlequicksearchbox</string>
+
     <!-- Colon separated list of package names that should be granted DND access -->
-    <string name="config_defaultDndAccessPackages" translatable="false">com.google.android.GoogleCamera:com.google.android.gms:com.google.intelligence.sense:com.google.android.settings.intelligence:com.google.android.apps.wellbeing:com.google.android.apps.safetyhub:com.google.android.dialer:com.google.android.apps.diagnosticstool:com.android.camera</string>
+    <string name="config_defaultDndAccessPackages" translatable="false">com.google.android.GoogleCamera:com.google.android.gms:com.google.intelligence.sense:com.google.android.settings.intelligence:com.google.android.apps.wellbeing:com.google.android.apps.safetyhub:com.google.android.dialer:com.google.android.apps.diagnosticstool</string>
 
     <!-- The component name, flattened to a string, for the default field classification service
          to  enabled for a user. This service must be trusted, as it can be activated
@@ -204,10 +212,10 @@
     <string name="config_defaultFieldClassificationService" translatable="false">com.google.android.as/com.google.android.apps.miphone.aiai.app.AutofillFieldClassificationService</string>
 
     <!-- Colon separated list of package names that should be granted Notification Listener access -->
-    <string name="config_defaultListenerAccessPackages" translatable="false">com.google.android.apps.nexuslauncher:com.google.android.setupwizard:com.google.android.apps.pixelmigrate:com.google.android.as:com.google.android.projection.gearhead:com.google.pixel.exo:com.android.launcher3:co.aospa.glyph</string>
+    <string name="config_defaultListenerAccessPackages" translatable="false">com.google.android.apps.nexuslauncher:com.google.android.setupwizard:com.google.android.apps.pixelmigrate:com.google.android.as:com.google.android.projection.gearhead:com.google.pixel.exo:com.google.ambient.streaming:com.android.launcher3:co.aospa.glyph:io.chaldeaprjkt.gamespace</string>
 
     <!-- Component name for the default module metadata provider on this device -->
-    <!--string name="config_defaultModuleMetadataProvider" translatable="false">com.google.android.modulemetadata</string-->
+    <!--string name="config_defaultModuleMetadataProvider" translatable="false">com.google.android.modulemetadata</string>-->
 
     <!-- The package name for the system's speech recognition service.
          This service must be trusted, as it can be activated without explicit consent of the user.
@@ -215,6 +223,15 @@
     -->
     <string name="config_defaultMusicRecognitionService" translatable="false">com.google.android.googlequicksearchbox/com.google.android.apps.search.soundsearch.service.SoundSearchService</string>
     <string name="config_defaultOnDeviceSpeechRecognitionService" translatable="false">com.google.android.as/com.google.android.apps.miphone.aiai.app.AiAiSpeechRecognitionService</string>
+
+    <!-- The component name for the default system on-device intelligence service, -->
+    <string name="config_defaultOnDeviceIntelligenceService" translatable="false">com.google.android.aicore/com.google.android.apps.aicore.service.isolated.AiCoreIntelligenceService</string>
+
+    <!-- The component name for the default system on-device sandboxed inference service. -->
+    <string name="config_defaultOnDeviceSandboxedInferenceService" translatable="false">com.google.android.aicore/com.google.android.apps.aicore.service.isolated.AiCoreIsolatedService</string>
+
+    <!-- The DeviceConfig namespace for the default system on-device sandboxed inference service. -->
+    <string name="config_defaultOnDeviceIntelligenceDeviceConfigNamespace" translatable="false">aicore</string>
 
     <!-- The action name for the default profcollect report uploader app. -->
     <string name="config_defaultProfcollectReportUploaderAction" translatable="false">com.google.android.apps.betterbug.intent.action.UPLOAD_PROFILE</string>

@@ -1,5 +1,5 @@
 //
-// Copyright (C) 2024 The hentaiOS Project and its Proprietors.
+// Copyright (C) 2021 The Android Open-Source Project
 //
 // Licensed under the Apache License, Version 2.0 (the "License");
 // you may not use this file except in compliance with the License.
@@ -16,6 +16,9 @@
 
 runtime_resource_overlay {
     name: "PixelBatteryHealthOverlay",
+    theme: "PixelBatteryHealthOverlay",
+    certificate: "platform",
     sdk_version: "current",
+    product_specific: true,
     aaptflags: ["--keep-raw-values"],
 }
