@@ -26,6 +26,7 @@ PRODUCT_PRODUCT_PROPERTIES += \
     ro.setupwizard.rotation_locked=true \
     setupwizard.feature.baseline_setupwizard_enabled=true \
     setupwizard.feature.day_night_mode_enabled=true \
+    setupwizard.feature.enable_quick_start_flow=true \
     setupwizard.feature.portal_notification=true \
     setupwizard.feature.show_pai_screen_in_main_flow.carrier1839=false \
     setupwizard.feature.show_pixel_tos=true \
