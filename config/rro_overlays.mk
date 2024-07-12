@@ -44,18 +44,18 @@ PRODUCT_PACKAGES += \
     TelecomOverlay \
     TelephonyProviderOverlay
 
-ifneq ($(filter google, $(PRODUCT_BRAND)),)
+ifneq ($(filter sailfish marlin walleye taimen blueline crosshatch sargo bonito flame coral sunfish bramble redfin barbet oriole raven bluejay panther cheetah lynx tangorpro felix shiba husky akita, $(LINEAGE_BUILD)),)
 PRODUCT_PACKAGES += \
     ManagedProvisioningPixelOverlay \
     PixelBatteryHealthOverlay
 endif
 
-ifneq ($(filter bluejay panther cheetah lynx felix tangorpro shiba husky, $(TARGET_DEVICE)),)
+ifneq ($(filter bluejay panther cheetah lynx felix tangorpro shiba husky akita, $(LINEAGE_BUILD)),)
 PRODUCT_PACKAGES += \
     PixelConnectivityOverlay2022
 endif
 
-ifneq ($(filter flame coral redfin oriole raven panther cheetah lynx felix shiba husky, $(TARGET_DEVICE)),)
+ifneq ($(filter flame coral redfin oriole raven panther cheetah lynx felix shiba husky akita, $(LINEAGE_BUILD)),)
 PRODUCT_PACKAGES += \
     DreamlinerOverlay
 endif
