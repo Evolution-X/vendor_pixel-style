@@ -59,3 +59,8 @@ ifneq ($(filter flame coral redfin oriole raven panther cheetah lynx felix shiba
 PRODUCT_PACKAGES += \
     DreamlinerOverlay
 endif
+
+ifneq ($(filter panther cheetah lynx felix shiba husky akita, $(LINEAGE_BUILD)),)
+PRODUCT_PACKAGES += \
+    ClearCallingOverlay
+endif
