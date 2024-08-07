@@ -1,6 +1,11 @@
 runtime_resource_overlay {
     name: "PixelLauncherCustomOverlay",
+    theme: "PixelLauncherCustomOverlay",
     certificate: "platform",
     sdk_version: "current",
-    product_specific: true
+    product_specific: true,
+    resource_dirs: [
+        "res",
+        "res-custom",
+    ],
 }
