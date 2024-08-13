@@ -27,11 +27,17 @@ PRODUCT_PRODUCT_PROPERTIES += \
     setupwizard.feature.baseline_setupwizard_enabled=true \
     setupwizard.feature.day_night_mode_enabled=true \
     setupwizard.feature.enable_quick_start_flow=true \
+    setupwizard.feature.enable_restore_anytime=true \
+    setupwizard.feature.enable_wifi_tracker=true \
+    setupwizard.feature.lifecycle_refactoring=true \
+    setupwizard.feature.notification_refactoring=true \
     setupwizard.feature.portal_notification=true \
     setupwizard.feature.show_pai_screen_in_main_flow.carrier1839=false \
     setupwizard.feature.show_pixel_tos=true \
     setupwizard.feature.show_support_link_in_deferred_setup=false \
-    setupwizard.feature.skip_button_use_mobile_data.carrier1839=true
+    setupwizard.feature.skip_button_use_mobile_data.carrier1839=true \
+    setupwizard.personal_safety_suw_enabled=true \
+    setupwizard.theme=glif_v4
 
 # StorageManager configuration
 PRODUCT_PRODUCT_PROPERTIES += \
