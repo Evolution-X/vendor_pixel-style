@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?><manifest xmlns:android="http://schemas.android.com/apk/res/android" android:compileSdkVersion="34" android:compileSdkVersionCodename="14" package="com.google.android.systemui.gxoverlay" platformBuildVersionCode="34" platformBuildVersionName="14">
+    <overlay android:category="com.google.android.systemui.gx" android:isStatic="false" android:targetName="SystemUI" android:targetPackage="com.android.systemui"/>
+    <application android:extractNativeLibs="true" android:hasCode="false" android:label="SystemUIGX"/>
+</manifest>

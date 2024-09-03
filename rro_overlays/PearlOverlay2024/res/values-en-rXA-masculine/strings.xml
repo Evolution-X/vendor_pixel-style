@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="reminder_description">(M)[Šéţ å ŕéḿîñðéŕ one two three]</string>
+    <string name="saved_status_description">(M)[ÛñšåVé šçŕééñšĥöţ one two three]</string>
+    <string name="saving_status_description">(M)[ŠåVîñĝ one two]</string>
+    <string name="unsaved_status_description">(M)[ŔéšåVé šçŕééñšĥöţ one two three]</string>
+</resources>
