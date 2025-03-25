@@ -16,15 +16,12 @@
 ** limitations under the License.
 */
 -->
-<bookmarks>
-    <bookmark role="android.app.role.BROWSER" shortcut="b" />
-    <bookmark category="android.intent.category.APP_CONTACTS" shortcut="c" />
-    <bookmark category="android.intent.category.APP_EMAIL" shortcut="e" />
-    <bookmark category="android.intent.category.APP_CALENDAR" shortcut="k" />
-    <bookmark category="android.intent.category.APP_MAPS" shortcut="m" />
-    <bookmark category="android.intent.category.APP_MUSIC" shortcut="p" />
-    <bookmark role="android.app.role.SMS" shortcut="s" />
-    <bookmark category="android.intent.category.APP_CALCULATOR" shortcut="u" />
-    <bookmark class="com.google.android.gm.ConversationListActivityGmail" package="com.google.android.gm" shortcut="g" />
-    <bookmark class="com.google.android.youtube.app.honeycomb.Shell$HomeActivity" package="com.google.android.youtube" shortcut="y" />
+<bookmarks xmlns:androidprv="http://schemas.android.com/apk/prv/res/android">
+    <bookmark androidprv:keycode="KEYCODE_B" androidprv:modifierState="META" role="android.app.role.BROWSER" />
+    <bookmark androidprv:keycode="KEYCODE_P" androidprv:modifierState="META" category="android.intent.category.APP_CONTACTS" />
+    <bookmark androidprv:keycode="KEYCODE_E" androidprv:modifierState="META" category="android.intent.category.APP_EMAIL" />
+    <bookmark androidprv:keycode="KEYCODE_C" androidprv:modifierState="META" category="android.intent.category.APP_CALENDAR" />
+    <bookmark androidprv:keycode="KEYCODE_M" androidprv:modifierState="META" category="android.intent.category.APP_MAPS" />
+    <bookmark androidprv:keycode="KEYCODE_U" androidprv:modifierState="META" category="android.intent.category.APP_CALCULATOR" />
+    <bookmark androidprv:keycode="KEYCODE_Y" androidprv:modifierState="META" class="com.google.android.youtube.app.honeycomb.Shell$HomeActivity" package="com.google.android.youtube" />
 </bookmarks>

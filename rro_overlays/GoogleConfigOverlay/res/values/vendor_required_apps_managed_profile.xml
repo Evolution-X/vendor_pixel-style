@@ -32,6 +32,7 @@
         <item>com.google.android.projection.gearhead</item>
         <item>com.google.android.apps.accessibility.voiceaccess</item>
         <item>com.google.android.apps.internal.betterbug</item>
+        <item>com.google.android.apps.internal.gyotaku</item>
         <item>com.google.android.apps.internal.nexusuploader</item>
         <item>com.google.android.netgrapher</item>
         <item>com.android.ramdump</item>

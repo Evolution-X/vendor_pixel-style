@@ -327,6 +327,16 @@
         <item>com.google.android.gms/.auth.api.credentials.credman.service.PasswordAndPasskeyService</item>
     </string-array>
 
+    <!-- Array of component names, each flattened to a string, for accessibility services that
+         can be enabled by the user without showing a warning prompt. These services must be
+         preinstalled. -->
+    <string-array name="config_trustedAccessibilityServices">
+        <item>com.google.android.apps.accessibility.voiceaccess/com.google.android.apps.accessibility.voiceaccess.JustSpeakService</item>
+        <item>com.google.android.accessibility.switchaccess/com.android.switchaccess.SwitchAccessService</item>
+        <item>com.android.systemui.accessibility.accessibilitymenu/com.android.systemui.accessibility.accessibilitymenu.AccessibilityMenuService</item>
+        <item>com.google.android.marvin.talkback/com.google.android.accessibility.selecttospeak.SelectToSpeakService</item>
+    </string-array>
+
     <string-array name="face_error_vendor">
         <item>Certificate expired</item>
         <item>Sensor temporarily disabled</item>

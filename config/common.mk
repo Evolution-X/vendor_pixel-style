@@ -25,7 +25,6 @@ endif
 
 # Gboard configuration
 PRODUCT_PRODUCT_PROPERTIES += \
-    ro.com.google.ime.bs_theme=true \
     ro.com.google.ime.theme_id=5 \
     ro.com.google.ime.system_lm_dir=/product/usr/share/ime/google/d3_lms
 
@@ -33,10 +32,10 @@ PRODUCT_PRODUCT_PROPERTIES += \
 PRODUCT_PRODUCT_PROPERTIES += \
     ro.setupwizard.enterprise_mode=1 \
     ro.setupwizard.esim_cid_ignore=00000001 \
-    setupwizard.enable_assist_gesture_training=true \
     setupwizard.feature.baseline_setupwizard_enabled=true \
     setupwizard.feature.day_night_mode_enabled=true \
     setupwizard.feature.enable_gil= \
+    setupwizard.feature.enable_quick_start_flow=true \
     setupwizard.feature.enable_restore_anytime=true \
     setupwizard.feature.enable_wifi_tracker=true \
     setupwizard.feature.lifecycle_refactoring=true \
