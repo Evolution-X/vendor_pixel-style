@@ -89,7 +89,7 @@ PRODUCT_PRODUCT_PROPERTIES += \
 
 # Use gestures by default
 PRODUCT_PROPERTY_OVERRIDES += \
-    ro.boot.vendor.overlay.theme=com.android.internal.systemui.navbar.gestural;com.google.android.systemui.gxoverlay
+    ro.boot.vendor.overlay.theme=com.android.internal.systemui.navbar.gestural;com.google.android.systemui.gxoverlay_gms
 
 # Resize GBoard ime key height to TARGET_GBOARD_KEY_HEIGHT
 # Value must be float e.g. 1.2
