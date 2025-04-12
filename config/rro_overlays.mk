@@ -39,6 +39,7 @@ PRODUCT_PACKAGES += \
     PixelDocumentsUIGoogleOverlay \
     PixelFlipendoOverlay \
     PixelFrameworkOverlay \
+    PixelLauncherNoGestureHintOverlay \
     PixelLauncherOverlayBlur \
     PixelLauncherOverlayCustom \
     PixelSettingsGoogleOverlay \
