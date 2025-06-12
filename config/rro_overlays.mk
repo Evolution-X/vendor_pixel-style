@@ -36,7 +36,6 @@ PRODUCT_PACKAGES += \
     PixelConfigOverlay2019Midyear \
     PixelConfigOverlayCommon \
     PixelContactsProviderOverlay \
-    PixelDocumentsUIGoogleOverlay \
     PixelFlipendoOverlay \
     PixelFrameworkOverlay \
     PixelLauncherNoGestureHintOverlay \
@@ -54,6 +53,7 @@ PRODUCT_PACKAGES += \
     SystemUIGXOverlay \
     WildlifeSettingsVpnOverlay2022 \
     WildlifeSysuiVpnOverlay2022
+#    PixelDocumentsUIGoogleOverlay
 
 ifneq ($(filter panther cheetah lynx felix shiba husky akita tokay caiman komodo frankel blazer mustang, $(LINEAGE_BUILD)),)
 PRODUCT_PACKAGES += \
