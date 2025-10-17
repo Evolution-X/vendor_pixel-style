@@ -3,11 +3,4 @@
     <string-array name="config_keep_warming_services">
         <item>com.google.android.GoogleCamera/com.google.android.apps.camera.prewarm.NoOpPrewarmService</item>
     </string-array>
-    <string-array name="config_locationExtraPackageNames">
-        <item>com.google.android.gms.location.history</item>
-    </string-array>
-    <string-array name="config_locationProviderPackageNames">
-        <item>com.google.android.gms</item>
-        <item>com.android.location.fused</item>
-    </string-array>
 </resources>
