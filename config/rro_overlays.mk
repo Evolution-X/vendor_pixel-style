@@ -42,7 +42,7 @@ PRODUCT_PACKAGES += \
     PixelLauncherOverlayCustom \
     PixelSettingsGoogleOverlay \
     PixelSettingsProviderOverlay \
-    PixelSetupWizardOverlay \
+    PixelSetupWizardOverlayExpressive \
     PixelSystemUIGoogleOverlay \
     PixelTeleServiceOverlay \
     PixelTelecomOverlay \
