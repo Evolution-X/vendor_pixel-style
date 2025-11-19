@@ -23,4 +23,5 @@
     <item type="dimen" format="float" name="config_wallpaperMaxScale">@*android:dimen/config_wallpaperMaxScale</item>
     <!-- Height of the bottom taskbar not including decorations like rounded corners. -->
     <dimen name="taskbar_size">@*android:dimen/taskbar_frame_height</dimen>
+    <dimen name="taskbar_stashed_size">24dp</dimen>
 </resources>
