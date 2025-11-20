@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources xmlns:androidprv="http://schemas.android.com/apk/prv/res/android">
+<resources>
     <style name="DocumentsTheme" parent="@android:style/Theme.DeviceDefault.DocumentsUI">
         <item name="android:windowBackground">?android:colorBackground</item>
         <item name="android:windowNoTitle">true</item>
@@ -11,7 +11,7 @@
         <item name="android:statusBarColor">?android:colorBackground</item>
         <item name="android:navigationBarColor">?android:colorBackground</item>
         <item name="android:windowLightStatusBar">true</item>
-        <item name="android:colorSecondary">?androidprv:attr/materialColorSecondary</item>
+        <item name="android:colorSecondary">@*android:color/materialColorSurface</item>
         <item name="android:windowLightNavigationBar">true</item>
         <item name="android:navigationBarDividerColor">?android:strokeColor</item>
     </style>

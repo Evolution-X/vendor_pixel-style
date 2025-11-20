@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">"Outil de sélection d'avatars Google Pixel"</string>
+    <string name="app_name">"Sélecteur d'avatars Google Pixel"</string>
     <string name="desc_ProfileIcons1">Illustration ludique de deux demi-cercles vert foncé sur fond vert clair</string>
     <string name="desc_ProfileIcons10">"Illustration ludique d'un papillon orange sur fond jaune"</string>
     <string name="desc_ProfileIcons11">Forme de nez noir aux bords arrondis sur fond gris foncé</string>

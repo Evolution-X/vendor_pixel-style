@@ -19,47 +19,32 @@ PRODUCT_PACKAGES += \
     AvatarPickerPixelOverlay \
     CellBroadcastReceiverOverlay \
     CellBroadcastServiceOverlay \
-    DMServiceOverlay \
     GoogleConfigOverlay \
     GoogleDeviceLockControllerOverlay \
-    GoogleDialerConfOverlay \
     GoogleHealthConnectOverlay \
     GooglePermissionControllerOverlay \
+    GoogleSettingsOverlay \
+    GoogleSystemUIOverlay \
     GoogleWebViewOverlay \
     ManagedProvisioningPixelOverlay \
-    MediaProviderOverlay \
-    PearlOverlay2024 \
-    PixelAccessibilityMenuOverlay \
-    PixelBuiltInPrintServiceOverlay \
+    PixelAccessibilityMenu \
+    PixelBuiltInPrintService \
     PixelConfigOverlay2018 \
     PixelConfigOverlay2019 \
     PixelConfigOverlay2019Midyear \
+    PixelConfigOverlay2021 \
     PixelConfigOverlayCommon \
-    PixelContactsProviderOverlay \
-    PixelFlipendoOverlay \
-    PixelFrameworkOverlay \
+    PixelContactsProvider \
+    PixelDeviceDiagnostics \
+    PixelDocumentsUIGoogleOverlay \
     PixelLauncherNoGestureHintOverlay \
     PixelLauncherOverlayCustom \
-    PixelSettingsGoogleOverlay \
-    PixelSettingsProviderOverlay \
+    PixelSettingsGoogle \
+    PixelSettingsProvider \
     PixelSetupWizardOverlayExpressive \
-    PixelSystemUIGoogleOverlay \
-    PixelTeleServiceOverlay \
-    PixelTelecomOverlay \
-    PixelTelephonyProviderOverlay \
-    PixelTetheringOverlay2021 \
-    SettingsGoogleOverlayEvolutionX \
+    PixelSystemUIGoogle \
+    PixelTeleService \
+    PixelTelecom \
+    Pixelframework-res \
     SystemUIGXOverlay \
-    WildlifeSettingsVpnOverlay2022 \
-    WildlifeSysuiVpnOverlay2022
-#    PixelDocumentsUIGoogleOverlay
-
-ifneq ($(filter panther cheetah lynx felix shiba husky akita tokay caiman komodo tegu frankel blazer mustang, $(LINEAGE_BUILD)),)
-PRODUCT_PACKAGES += \
-    ClearCallingOverlay
-endif
-
-ifneq ($(filter flame coral redfin oriole raven panther cheetah lynx felix shiba husky akita tokay caiman komodo tegu frankel blazer mustang, $(LINEAGE_BUILD)),)
-PRODUCT_PACKAGES += \
-    DreamlinerOverlay
-endif
+    WildlifeSettingsVpnOverlay2022
