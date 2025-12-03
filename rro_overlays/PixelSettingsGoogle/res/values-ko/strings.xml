@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="display_white_balance_summary">주변 조명에 따라 디스플레이가 따뜻하거나 차가운 느낌의 톤으로 자동 조절됩니다.</string>
+    <string name="display_white_balance_summary">주변 조명에 따라 디스플레이가 따뜻하거나 차가운 느낌의 톤으로 자동 조절</string>
     <string name="display_white_balance_title">톤 자동 조절</string>
     <string name="fingerprint_unlock_set_unlock_password">Pixel Imprint + 비밀번호</string>
     <string name="fingerprint_unlock_set_unlock_pattern">Pixel Imprint + 패턴</string>

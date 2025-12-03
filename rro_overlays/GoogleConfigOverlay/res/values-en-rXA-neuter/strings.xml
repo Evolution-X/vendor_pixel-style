@@ -5,6 +5,8 @@
     <string name="biometric_or_screen_lock_app_setting_name">(N)[Ûšé ƒåçé, ƒîñĝéŕþŕîñţ, öŕ šçŕééñ ļöçķ one two three four five]</string>
     <string name="biometric_or_screen_lock_dialog_default_subtitle">(N)[Ûšé ýöûŕ ƒåçé, ƒîñĝéŕþŕîñţ, öŕ šçŕééñ ļöçķ ţö çöñţîñûé one two three four five six seven]</string>
     <string name="config_defaultQrCodeComponent">(N)[çöḿ.ĝööĝļé.åñðŕöîð.ĝḿš/.ḿļķîţ.ɓåŕçöðé.ûî.ÞļåţƒöŕḿβåŕçöðéŠçåññîñĝÅçţîVîţýÞŕöхý one two three four five six seven eight]</string>
+    <string name="config_defaultSelectToSpeakService">(N)[çöḿ.ĝööĝļé.åñðŕöîð.ḿåŕVîñ.ţåļķɓåçķ/çöḿ.ĝööĝļé.åñðŕöîð.åççéššîɓîļîţý.šéļéçţţöšþéåķ.ŠéļéçţŢöŠþéåķŠéŕVîçé one two three four five six seven eight nine ten eleven]</string>
+    <string name="config_defaultVoiceAccessService">(N)[çöḿ.ĝööĝļé.åñðŕöîð.åþþš.åççéššîɓîļîţý.Vöîçéåççéšš/çöḿ.ĝööĝļé.åñðŕöîð.åþþš.åççéššîɓîļîţý.Vöîçéåççéšš.ĴûšţŠþéåķŠéŕVîçé one two three four five six seven eight nine ten eleven twelve]</string>
     <string name="config_defaultWallet">(N)[çöḿ.ĝööĝļé.åñðŕöîð.ĝḿš one two three]</string>
     <string name="config_devicePolicyManagement">(N)[çöḿ.ĝööĝļé.åñðŕöîð.åþþš.ŵöŕķ.çļöûððþç:23962F4β43β9857638ÉÅ66F4Ð419518ÉÅÉ282491ÅÇÐÅ4β94707βÐ59003Ç45É58 one two three four five six seven eight nine ten eleven]</string>
     <string name="config_devicePolicyManagementUpdater">(N)[çöḿ.ĝööĝļé.åñðŕöîð.ĝḿš one two three]</string>
