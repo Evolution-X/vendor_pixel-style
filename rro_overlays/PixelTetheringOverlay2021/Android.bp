@@ -1,4 +1,0 @@
-runtime_resource_overlay {
-    name: "PixelTetheringOverlay2021",
-    product_specific: true,
-}
