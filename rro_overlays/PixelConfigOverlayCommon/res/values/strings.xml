@@ -4,9 +4,6 @@
     <string name="android_upgrading_title">Pixel is updating…</string>
     <string name="config_ambientContextEventArrayExtraKey">EVENT_ARRAY</string>
     <string name="config_ambientContextPackageNameExtraKey">PACKAGE_NAME</string>
-    <string name="config_bodyFontFamily">google-sans-text</string>
-    <string name="config_bodyFontFamilyMedium">google-sans-text-medium</string>
-    <string name="config_clockFontFamily">google-sans-clock</string>
     <string name="config_defaultAmbientContextConsentComponent">com.google.android.as/com.google.android.apps.miphone.aiai.ambientcontext.ui.ConsentActivity</string>
     <string name="config_defaultAmbientContextDetectionService">com.google.android.as/com.google.android.apps.miphone.aiai.app.AiAiAmbientContextDetectionService</string>
     <string name="config_defaultAppPredictionService">com.google.android.as/com.google.android.apps.miphone.aiai.app.AiAiPredictionService</string>
@@ -43,9 +40,6 @@
     <string name="config_emergency_dialer_package">com.google.android.apps.safetyhub</string>
     <string name="config_feedbackIntentExtraKey">EXTRA_FEEDBACK_PSD_KEYS</string>
     <string name="config_feedbackIntentNameKey">EXTRA_FEEDBACK_PSD_VALUES</string>
-    <string name="config_headlineFontFamily">google-sans</string>
-    <string name="config_headlineFontFamilyMedium">google-sans-medium</string>
-    <string name="config_headlineFontFeatureSettings">ss03</string>
     <string name="config_helpIntentExtraKey">EXTRA_PSD_KEYS</string>
     <string name="config_helpIntentNameKey">EXTRA_PSD_VALUES</string>
     <string name="config_helpPackageNameKey">genie-eng:app_pkg_name</string>
