@@ -1,6 +1,6 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.android.cellbroadcastreceiver.overlay.pixel_gms">
-    <overlay android:targetPackage="com.google.android.cellbroadcastreceiver"
+    <overlay android:targetPackage="com.android.cellbroadcastreceiver"
                    android:targetName="CellBroadcastCustomization"
                    android:isStatic="true"
                    android:priority="0"/>
