@@ -27,6 +27,7 @@ PRODUCT_PACKAGES += \
     GoogleDeviceLockControllerOverlay \
     GoogleHealthConnectOverlay \
     GooglePermissionControllerOverlay \
+    GooglePermissionControllerSafetyCenterOverlay \
     GoogleSettingsOverlay \
     GoogleSystemUIOverlay \
     GoogleWebViewOverlay \
@@ -38,6 +39,7 @@ PRODUCT_PACKAGES += \
     PixelConfigOverlay2019Midyear \
     PixelConfigOverlay2021 \
     PixelConfigOverlayCommon \
+    PixelConnectivityOverlay2024 \
     PixelContactsProvider \
     PixelDeviceDiagnostics \
     PixelDocumentsUIGoogleOverlay \
@@ -52,6 +54,7 @@ PRODUCT_PACKAGES += \
     Pixelframework-res \
     SystemUIGXOverlay \
     UdfpsOverlay \
+    VerifierResOverlay \
     WallpaperPicker2Overlay \
     WallpaperPicker2PixelOverlay \
     WildlifeSettingsVpnOverlay2022

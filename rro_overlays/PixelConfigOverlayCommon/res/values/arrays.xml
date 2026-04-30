@@ -10,6 +10,10 @@
         <item>com.chrome.dev/com.google.android.apps.chrome.cloudsearch.ChromeCloudSearchService</item>
         <item>com.chrome.beta/com.google.android.apps.chrome.cloudsearch.ChromeCloudSearchService</item>
     </string-array>
+    <string-array name="config_listenerHintsExemptPackages">
+        <item>com.google.android.soundpicker</item>
+    </string-array>
+    <array name="config_notificationMsgPkgsAllowedAsConvos" />
     <string-array name="config_packagesExemptFromSuspension">
         <item>com.google.android.apps.wellbeing</item>
         <item>com.android.vending</item>

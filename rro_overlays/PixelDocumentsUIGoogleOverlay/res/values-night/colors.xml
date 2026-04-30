@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <color name="list_item_selected_background_color">@*android:color/system_accent1_900</color>
+    <color name="materialColorSecondary">@*android:color/system_secondary_dark</color>
+    <color name="materialColorSurfaceContainer">@*android:color/system_surface_container_dark</color>
 </resources>
