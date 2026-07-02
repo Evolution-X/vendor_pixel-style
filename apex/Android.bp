@@ -1,0 +1,14 @@
+prebuilt_apex {
+    name: "com.google.android.webapp",
+    apps: [
+        "WebAppServiceGoogle",
+    ],
+    source_apex_name: "com.google.android.webapp",
+    owner: "google",
+    src: "com.google.android.webapp.apex",
+    overrides: [
+        "com.android.webapp",
+    ],
+    prefer: true,
+    exported_bootclasspath_fragments: ["com.android.webapp-bootclasspath-fragment"],
+}
