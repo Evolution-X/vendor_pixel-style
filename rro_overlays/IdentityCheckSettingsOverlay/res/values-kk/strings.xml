@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="identity_check_setup_watch_description">Үйіңіз сияқты сенімді орындардан басқа жерлерде:&lt;ul>&lt;li>Pixel Watch 3 немесе одан кейінгі нұсқасы жалғанған болса, биометрияны немесе PIN кодын пайдалануға болады.&lt;/li>&lt;li>Pixel Watch жалғанбаған болса, сізден саусақ ізін немесе бет тану функциясын пайдалану талап етіледі.&lt;/li>&lt;/ul></string>
+</resources>

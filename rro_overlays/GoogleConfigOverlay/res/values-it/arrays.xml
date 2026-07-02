@@ -1,2 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources/>
+<resources>
+    <array name="face_acquired_vendor" />
+    <string-array name="face_error_vendor">
+        <item>Certificato scaduto</item>
+        <item>Sensore temporaneamente disattivato</item>
+        <item>Errore di calibrazione</item>
+        <item>Sblocco con il Volto non disponibile. Il telefono è troppo caldo.</item>
+        <item>È necessario riconfigurare Sblocco con il Volto</item>
+        <item>"Regola l'illuminazione e non ti muovere"</item>
+    </string-array>
+</resources>

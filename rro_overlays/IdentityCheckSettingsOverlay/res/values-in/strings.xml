@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="identity_check_setup_watch_description">Di luar tempat tepercaya seperti rumah Anda:&lt;ul>&lt;li>Jika Anda memiliki Pixel Watch 3 atau versi yang lebih baru yang terhubung, Anda dapat menggunakan biometrik atau PIN&lt;/li>&lt;li>Jika Anda tidak memiliki Pixel Watch yang terhubung, Anda akan diminta menggunakan fitur Buka dengan Sidik Jari atau Buka dengan Wajah&lt;/li>&lt;/ul></string>
+</resources>

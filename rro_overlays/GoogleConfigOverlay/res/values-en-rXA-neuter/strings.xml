@@ -5,6 +5,7 @@
     <string name="biometric_or_screen_lock_app_setting_name">(N)[Ûšé ƒåçé, ƒîñĝéŕþŕîñţ, öŕ šçŕééñ ļöçķ one two three four five]</string>
     <string name="biometric_or_screen_lock_dialog_default_subtitle">(N)[Ûšé ýöûŕ ƒåçé, ƒîñĝéŕþŕîñţ, öŕ šçŕééñ ļöçķ ţö çöñţîñûé one two three four five six seven]</string>
     <string name="config_defaultQrCodeComponent">(N)[çöḿ.ĝööĝļé.åñðŕöîð.ĝḿš/.ḿļķîţ.ɓåŕçöðé.ûî.ÞļåţƒöŕḿβåŕçöðéŠçåññîñĝÅçţîVîţýÞŕöхý one two three four five six seven eight]</string>
+    <string name="config_defaultQrCodeComponentIntentAction">(N)[çöḿ.ĝööĝļé.åñðŕöîð.ĝḿš.ḿļķîţ_ɓåŕçöðé_ûî.ŠÇÅÑ_qŔ_ÇÖÐÉ one two three four five six]</string>
     <string name="config_defaultSelectToSpeakService">(N)[çöḿ.ĝööĝļé.åñðŕöîð.ḿåŕVîñ.ţåļķɓåçķ/çöḿ.ĝööĝļé.åñðŕöîð.åççéššîɓîļîţý.šéļéçţţöšþéåķ.ŠéļéçţŢöŠþéåķŠéŕVîçé one two three four five six seven eight nine ten eleven]</string>
     <string name="config_defaultVoiceAccessService">(N)[çöḿ.ĝööĝļé.åñðŕöîð.åþþš.åççéššîɓîļîţý.Vöîçéåççéšš/çöḿ.ĝööĝļé.åñðŕöîð.åþþš.åççéššîɓîļîţý.Vöîçéåççéšš.ĴûšţŠþéåķŠéŕVîçé one two three four five six seven eight nine ten eleven twelve]</string>
     <string name="config_defaultWallet">(N)[çöḿ.ĝööĝļé.åñðŕöîð.ĝḿš one two three]</string>
@@ -12,8 +13,11 @@
     <string name="config_devicePolicyManagementUpdater">(N)[çöḿ.ĝööĝļé.åñðŕöîð.ĝḿš one two three]</string>
     <string name="config_healthConnectMigratorPackageName">(N)[çöḿ.ĝööĝļé.åñðŕöîð.åþþš.ĥéåļţĥðåţå one two three four]</string>
     <string name="config_systemDependencyInstaller">(N)[çöḿ.ĝööĝļé.åñðŕöîð.ĝḿš one two three]</string>
+    <string name="face_recalibrate_notification_content">(N)[Fåçé ûñļöçķ ḿåý ñöţ ŵöŕķ ûñţîļ ýöû ŕé-éñŕöļļ one two three four five]</string>
+    <string name="face_recalibrate_notification_name">(N)[Fåçé ûñļöçķ one two]</string>
+    <string name="face_recalibrate_notification_title">(N)[Þļéåšé ŕé-éñŕöļļ ýöûŕ ƒåçé one two three four]</string>
     <string name="harmful_app_warning_title">(N)[Þļåý Þŕöţéçţ ŵåŕñîñĝ one two three]</string>
     <string name="identity_check_settings_action">(N)[çöḿ.ĝööĝļé.åñðŕöîð.ĝḿš.þéŕšöñåļšåƒéţý.šéţţîñĝš.ÎÐÉÑŢÎŢÝ_ÇĤÉÇĶ_ŠŴÎŢÇĤ one two three four five six seven eight]</string>
     <string name="identity_check_settings_package_name">(N)[çöḿ.ĝööĝļé.åñðŕöîð.ĝḿš one two three]</string>
-    <string name="safety_protection_display_text">(N)[&lt;font face=\"google-sans\"&gt;Þŕöţéçţéð ɓý &lt;/font&gt;&lt;font face=\"google-sans-medium\"&gt;Åñðŕöîð&lt;/font&gt; one two three]</string>
+    <string name="safety_protection_display_text">(N)[&lt;font face=\"google-sans\">Þŕöţéçţéð ɓý &lt;/font>&lt;font face=\"google-sans-medium\">Åñðŕöîð&lt;/font> one two three]</string>
 </resources>

@@ -1,2 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources/>
+<resources>
+    <array name="face_acquired_vendor" />
+    <string-array name="face_error_vendor">
+        <item>Сертификат мерзімі аяқталған.</item>
+        <item>Датчик уақытша өшірулі.</item>
+        <item>Калибрлеу қатесі</item>
+        <item>Бет тану функциясы қолжетімсіз. Телефон қатты қызып кеткен.</item>
+        <item>Face Unlock функциясының параметрлерін қайта реттеу қажет.</item>
+        <item>Жарықты реттеп, қозғалтпай ұстаңыз.</item>
+    </string-array>
+</resources>

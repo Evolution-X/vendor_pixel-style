@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="identity_check_setup_watch_description">‏عند التواجد خارج الأماكن الموثوق بها مثل منزلك:&lt;ul>&lt;li>إذا كانت لديك ساعة Pixel Watch 3 أو إصدار أحدث متصل بجهازك، يمكنك استخدام المقاييس الحيوية أو رقم التعريف الشخصي&lt;/li>&lt;li>إذا لم تكن لديك ساعة Pixel Watch متصلة بجهازك، سيُطلب منك استخدام ميزة \"فتح الجهاز ببصمة الإصبع\" أو \"فتح الجهاز ببصمة الوجه\"&lt;/li>&lt;/ul></string>
+</resources>

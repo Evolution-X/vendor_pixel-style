@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="identity_check_setup_watch_description">នៅខាងក្រៅកន្លែងដែលទុកចិត្តដូចជា ផ្ទះរបស់អ្នកជាដើម៖&lt;ul>&lt;li>ប្រសិនបើអ្នកមាន Pixel Watch 3 ឬកំណែក្រោយៗដែលបានភ្ជាប់ អ្នកអាចប្រើជីវមាត្រ ឬកូដ PIN របស់អ្នក&lt;/li>&lt;li>ប្រសិនបើអ្នកមិនមាន Pixel Watch ដែលបានភ្ជាប់ទេ អ្នកនឹងត្រូវបានតម្រូវឱ្យប្រើការដោះ​សោ​ដោយស្កេន​មុខ ឬការដោះសោ​ដោយស្កេន​ស្នាមម្រាមដៃ&lt;/li>&lt;/ul></string>
+</resources>

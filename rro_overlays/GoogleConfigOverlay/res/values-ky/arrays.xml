@@ -1,2 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources/>
+<resources>
+    <array name="face_acquired_vendor" />
+    <string-array name="face_error_vendor">
+        <item>Тастыктаманын мөөнөтү аяктаган</item>
+        <item>Сенсор убактылуу өчүрүлгөн</item>
+        <item>Тууралоо катасы</item>
+        <item>\"Жүзүнөн таанып ачуу\" жеткиликсиз. Телефон ысып кетти.</item>
+        <item>Жүзүнөн таанып ачуу функциясын кайрадан жөндөө керек</item>
+        <item>Жарыкты тууралап, кыймылдатпай туруңуз</item>
+    </string-array>
+</resources>

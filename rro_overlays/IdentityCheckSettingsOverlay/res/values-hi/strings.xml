@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="identity_check_setup_watch_description">घर जैसी भरोसेमंद जगहों से बाहर होने पर:&lt;ul>&lt;li>अगर आपने Pixel Watch 3 या इसके बाद के वर्शन वाली स्मार्टवॉच कनेक्ट की है, तो बायोमेट्रिक्स या पिन का इस्तेमाल किया जा सकता है&lt;/li>&lt;li>अगर आपने Pixel Watch कनेक्ट नहीं की है, तो आपको फ़िंगरप्रिंट या फ़ेस अनलॉक का इस्तेमाल करना होगा&lt;/li>&lt;/ul></string>
+</resources>

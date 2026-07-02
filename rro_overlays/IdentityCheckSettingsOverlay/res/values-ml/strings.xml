@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="identity_check_setup_watch_description">നിങ്ങളുടെ വീട് പോലുള്ള ട്രസ്റ്റഡ് പ്ലേസുകൾക്ക് പുറത്ത്:&lt;ul>&lt;li>കണക്റ്റ് ചെയ്ത Pixel Watch 3 അല്ലെങ്കിൽ അതിന് ശേഷമുള്ള മോഡൽ ഉണ്ടെങ്കിൽ, നിങ്ങൾക്ക് ബയോമെട്രിക്‌സ് അല്ലെങ്കിൽ പിൻ ഉപയോഗിക്കാം&lt;/li>&lt;li>നിങ്ങൾക്ക് കണക്റ്റ് ചെയ്ത Pixel Watch ഇല്ലെങ്കിൽ, ഫിംഗർപ്രിന്റോ ഫെയ്‌സ് അൺലോക്കോ ഉപയോഗിക്കേണ്ടതുണ്ട്&lt;/li>&lt;/ul></string>
+</resources>

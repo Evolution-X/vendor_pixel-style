@@ -1,2 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources/>
+<resources>
+    <array name="face_acquired_vendor" />
+    <string-array name="face_error_vendor">
+        <item>Термін дії сертифіката минув</item>
+        <item>Датчик тимчасово вимкнено</item>
+        <item>Помилка калібрування</item>
+        <item>Фейс-контроль недоступний. Телефон загарячий.</item>
+        <item>Потрібно повторно налаштувати фейс-контроль</item>
+        <item>Налаштуйте освітлення й тримайте пристрій нерухомо</item>
+    </string-array>
+</resources>

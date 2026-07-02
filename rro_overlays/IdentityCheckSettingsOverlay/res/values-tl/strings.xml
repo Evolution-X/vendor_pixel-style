@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="identity_check_setup_watch_description">Sa labas ng mga pinagkakatiwalaang lugar gaya ng iyong bahay:&lt;ul>&lt;li>Kung may nakakonekta kang Pixel Watch 3 o mas bago, puwede mong gamitin ang biometrics o ang iyong PIN&lt;/li>&lt;li>Kung wala kang nakakonektang Pixel Watch, kakailanganin mong gamitin ang Pag-unlock Gamit ang Fingerprint o Mukha&lt;/li>&lt;/ul></string>
+</resources>

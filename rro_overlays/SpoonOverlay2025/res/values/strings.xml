@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="config_systemVendorIntelligence">com.google.android.apps.pixel.psi</string>
+</resources>

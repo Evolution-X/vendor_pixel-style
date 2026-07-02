@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="identity_check_setup_watch_description">"Fora dels llocs de confiança, com ara casa teva:&lt;ul>&lt;li>Si tens un Pixel Watch 3 o un model posterior connectats, pots utilitzar dades biomètriques o el PIN.&lt;/li>&lt;li>Si no tens un Pixel Watch connectat, hauràs d'utilitzar Desbloqueig amb empremta digital o Desbloqueig facial.&lt;/li>&lt;/ul>"</string>
+</resources>

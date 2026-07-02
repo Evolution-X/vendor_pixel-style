@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="identity_check_setup_watch_description">自宅などの信頼できる場所以外の場合:&lt;ul>&lt;li>Google Pixel Watch 3 以降が接続されている場合は、生体認証または PIN を使用できます&lt;/li>&lt;li>Google Pixel Watch が接続されていない場合は、指紋認証または顔認証を使用する必要があります&lt;/li>&lt;/ul></string>
+</resources>

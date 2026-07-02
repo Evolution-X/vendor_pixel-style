@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="identity_check_setup_watch_description">మీరు నమ్మదగ్గ ప్రదేశాల్లో ఉన్నప్పుడు, ఉదాహరణకు, ఇంట్లో ఉన్నప్పుడు:&lt;ul>&lt;li>మీరు Pixel Watch 3 లేదా ఆ తర్వాత వచ్చిన మోడల్‌ను కనెక్ట్ చేసి ఉంటే, బయోమెట్రిక్స్ లేదా మీ PINను ఉపయోగించవచ్చు&lt;/li>&lt;li>మీకు Pixel Watch కనెక్ట్ కాకపోతే, మీరు వేలిముద్ర లేదా ఫేస్ అన్‌లాక్‌ను ఉపయోగించాల్సి ఉంటుంది&lt;/li>&lt;/ul></string>
+</resources>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="identity_check_setup_watch_description">นอกสถานที่ที่เชื่อถือได้ เช่น บ้าน&lt;ul>&lt;li>หากคุณมี Pixel Watch 3 ขึ้นไปที่เชื่อมต่ออยู่ คุณจะใช้ข้อมูลไบโอเมตริกหรือ PIN ก็ได้&lt;/li>&lt;li>หากคุณไม่มี Pixel Watch ที่เชื่อมต่ออยู่ คุณจะต้องใช้การปลดล็อกด้วยลายนิ้วมือหรือการปลดล็อกด้วยใบหน้า&lt;/li>&lt;/ul></string>
+</resources>

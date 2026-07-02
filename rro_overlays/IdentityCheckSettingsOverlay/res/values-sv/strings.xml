@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="identity_check_setup_watch_description">Utanför betrodda platser som hemmet:&lt;ul>&lt;li>Om du har en ansluten Pixel Watch 3 eller senare kan du använda biometri eller pinkod&lt;/li>&lt;li>Om du inte har en ansluten Pixel Watch måste du använda fingeravtryck eller ansiktslås&lt;/li>&lt;/ul></string>
+</resources>

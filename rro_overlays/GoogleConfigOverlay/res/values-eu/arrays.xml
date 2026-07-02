@@ -1,2 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources/>
+<resources>
+    <array name="face_acquired_vendor" />
+    <string-array name="face_error_vendor">
+        <item>Ziurtagiria iraungita dago</item>
+        <item>Sentsorea aldi baterako desgaitu da</item>
+        <item>Kalibrazio-errorea</item>
+        <item>Aurpegi bidez desblokeatzea ez dago erabilgarri. Telefonoa gehiegi berotu da.</item>
+        <item>Aurpegi bidez desblokeatzea berriro konfiguratu behar da</item>
+        <item>Doitu argiztapena eta ez mugitu</item>
+    </string-array>
+</resources>

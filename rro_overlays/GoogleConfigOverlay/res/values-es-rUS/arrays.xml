@@ -1,2 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources/>
+<resources>
+    <array name="face_acquired_vendor" />
+    <string-array name="face_error_vendor">
+        <item>El certificado está vencido</item>
+        <item>Se inhabilitó temporalmente el sensor</item>
+        <item>Error de calibración</item>
+        <item>El Desbloqueo facial no está disponible. Se sobrecalentó el teléfono.</item>
+        <item>Debes volver a configurar el desbloqueo facial</item>
+        <item>Ajusta la luz y sostén el dispositivo con firmeza</item>
+    </string-array>
+</resources>

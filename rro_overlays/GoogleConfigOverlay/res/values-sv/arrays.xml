@@ -1,2 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources/>
+<resources>
+    <array name="face_acquired_vendor" />
+    <string-array name="face_error_vendor">
+        <item>Certifikatet har upphört att gälla</item>
+        <item>Sensorn har tillfälligt inaktiverats</item>
+        <item>Kalibreringsfel</item>
+        <item>Ansiktslås är otillgängligt. Telefonen är för varm.</item>
+        <item>Du måste ställa in ansiktslåset på nytt</item>
+        <item>Justera belysningen och håll kameran stilla</item>
+    </string-array>
+</resources>

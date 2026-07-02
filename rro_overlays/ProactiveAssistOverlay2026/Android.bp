@@ -1,0 +1,4 @@
+runtime_resource_overlay {
+    name: "ProactiveAssistOverlay2026",
+    product_specific: true,
+}

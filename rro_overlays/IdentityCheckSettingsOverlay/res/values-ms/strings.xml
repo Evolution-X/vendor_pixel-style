@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="identity_check_setup_watch_description">Selain tempat yang dipercayai seperti rumah anda:&lt;ul>&lt;li>Jika anda mempunyai Pixel Watch 3 atau versi lebih baharu yang disambungkan, anda boleh menggunakan biometrik atau PIN anda&lt;/li>&lt;li>Jika anda tidak mempunyai Pixel Watch yang disambungkan, anda akan diminta menggunakan Buka Kunci Cap Jari atau Wajah&lt;/li>&lt;/ul></string>
+</resources>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="identity_check_setup_watch_description">Όταν βρίσκεστε μακριά από αξιόπιστα μέρη, όπως το σπίτι σας:&lt;ul>&lt;li>Εάν έχετε συνδεδεμένο Pixel Watch 3 ή νεότερο μοντέλο, μπορείτε να χρησιμοποιήσετε βιομετρικά ή το PIN σας&lt;/li>&lt;li>Εάν δεν έχετε συνδεδεμένο Pixel Watch, θα πρέπει να χρησιμοποιήσετε το Ξεκλείδωμα με δακτυλικό αποτύπωμα ή το Ξεκλείδωμα με το πρόσωπο&lt;/li>&lt;/ul></string>
+</resources>

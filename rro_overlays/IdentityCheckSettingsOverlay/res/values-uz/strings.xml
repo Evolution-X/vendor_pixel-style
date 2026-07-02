@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="identity_check_setup_watch_description">Uy kabi ishonchli joylardan tashqarida:&lt;ul>&lt;li>Agar Pixel Watch 3 yoki undan keyingi versiyasi ulangan boʻlsa, biometriya yoki PIN koddan foydalanishingiz mumkin&lt;/li>&lt;li>Agar Pixel Watch ulanmagan boʻlsa, barmoq izi yoki yuz bilan ochish kerak boʻladi&lt;/li>&lt;/ul></string>
+</resources>

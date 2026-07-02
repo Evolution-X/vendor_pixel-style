@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="identity_check_setup_watch_description">"En dehors des lieux vérifiés comme votre domicile :&lt;ul>&lt;li>Si vous avez une Pixel Watch 3 ou une montre connectée plus récente, vous pouvez utiliser les données biométriques ou votre code.&lt;/li>&lt;li>Si vous n'avez pas de Pixel Watch connectée, vous devrez utiliser le déverrouillage par empreinte digitale ou par reconnaissance faciale.&lt;/li>&lt;/ul>"</string>
+</resources>

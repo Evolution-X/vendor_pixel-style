@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="identity_check_setup_watch_description">Poza zaufanymi miejscami, takimi jak dom:&lt;ul>&lt;li>jeśli masz połączony zegarek Pixel Watch 3 lub nowszy, możesz używać biometrii lub kodu PIN;&lt;/li>&lt;li>jeśli nie masz połączonego zegarka Pixel Watch, urządzenie będzie można odblokować odciskiem palca lub przez rozpoznawanie twarzy.&lt;/li>&lt;/ul></string>
+</resources>

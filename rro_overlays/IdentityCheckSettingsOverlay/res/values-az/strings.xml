@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="identity_check_setup_watch_description">Eviniz kimi etibarlı yerlərdən kənarda:&lt;ul>&lt;li>Qoşulmuş Pixel Watch 3 və ya daha yeni saatınız varsa, biometrik məlumatlardan və ya PIN-dən istifadə edə bilərsiniz&lt;/li>&lt;li>Qoşulmuş Pixel Watch-unuz yoxdursa, Barmaq izi və ya Üz ilə Kiliddən Açma tələb olunacaq&lt;/li>&lt;/ul></string>
+</resources>

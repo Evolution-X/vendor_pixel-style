@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="identity_check_setup_watch_description">Þegar þú ert ekki á traustum stöðum eins og heimili þínu:&lt;ul>&lt;li>Ef þú ert með tengt Pixel Watch 3-úr eða nýrra geturðu annaðhvort notað lífkenni eða PIN-númerið þitt&lt;/li>&lt;li>Ef úrið þitt er ekki tengt verður fingrafars- eða andlitskennis krafist&lt;/li>&lt;/ul></string>
+</resources>

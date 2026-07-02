@@ -16,6 +16,7 @@
 
 # Google Overlays
 PRODUCT_PACKAGES += \
+    AmbientCueOverlay \
     AvatarPickerPixelOverlay \
     CellBroadcastReceiverOverlay \
     CellBroadcastServiceOverlay \
@@ -31,7 +32,9 @@ PRODUCT_PACKAGES += \
     GoogleSettingsOverlay \
     GoogleSystemUIOverlay \
     GoogleWebViewOverlay \
+    IdentityCheckSettingsOverlay \
     ManagedProvisioningPixelOverlay \
+    PersonalContextConfigOverlay \
     PixelAccessibilityMenu \
     PixelBuiltInPrintService \
     PixelConfigOverlay2018 \
@@ -52,9 +55,12 @@ PRODUCT_PACKAGES += \
     PixelTeleService \
     PixelTelecom \
     Pixelframework-res \
+    ProactiveAssistOverlay2026 \
+    SpoonOverlay2025 \
     SystemUIGXOverlay \
     UdfpsOverlay \
     VerifierResOverlay \
     WallpaperPicker2Overlay \
     WallpaperPicker2PixelOverlay \
-    WildlifeSettingsVpnOverlay2022
+    WildlifeSettingsVpnOverlay2022 \
+    WildlifeSysuiVpnOverlay2022

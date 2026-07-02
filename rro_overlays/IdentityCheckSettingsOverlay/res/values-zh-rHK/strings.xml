@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="identity_check_setup_watch_description">當你並非身處住宅等信任的地點時：&lt;ul>&lt;li>如你有已連接的 Pixel Watch 3 或較新型號手錶，可使用生物識別資料或 PIN&lt;/li>&lt;li>如你沒有已連接的 Pixel Watch，系統會要求你使用「指紋解鎖」或「面孔解鎖」&lt;/li>&lt;/ul></string>
+</resources>

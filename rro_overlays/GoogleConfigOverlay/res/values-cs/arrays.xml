@@ -1,2 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources/>
+<resources>
+    <array name="face_acquired_vendor" />
+    <string-array name="face_error_vendor">
+        <item>Platnost certifikátu vypršela</item>
+        <item>Senzor je dočasně deaktivován</item>
+        <item>Chyba kalibrace</item>
+        <item>Odemknutí obličejem není k dispozici. Telefon je příliš zahřátý.</item>
+        <item>Odemknutí obličejem je třeba nastavit znovu</item>
+        <item>Upravte osvětlení a nehýbejte se</item>
+    </string-array>
+</resources>

@@ -1,2 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources/>
+<resources>
+    <array name="face_acquired_vendor" />
+    <string-array name="face_error_vendor">
+        <item>प्रमाणपत्रको म्याद सकियो</item>
+        <item>केही समयका लागि सेन्सर अफ गरिएको छ</item>
+        <item>क्यालिब्रेसनसम्बन्धी त्रुटि</item>
+        <item>फेस अनलक उपलब्ध छैन। फोन निकै तातो छ।</item>
+        <item>फेस अनलक फेरि सेटअप गर्नु पर्ने हुन्छ</item>
+        <item>लाइटिङ मिलाउनुहोस् र नहल्लिकन बस्नुहोस्</item>
+    </string-array>
+</resources>

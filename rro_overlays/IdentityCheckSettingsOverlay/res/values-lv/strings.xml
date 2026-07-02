@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="identity_check_setup_watch_description">Ārpus uzticamām vietām, piemēram, mājām:&lt;ul>&lt;li>ja jums ir pievienots Pixel Watch 3 vai jaunāks pulkstenis, varat izmantot biometriju vai PIN;&lt;/li>&lt;li>ja jums nav pievienota Pixel Watch pulksteņa, jums būs jāizmanto autorizācija ar pirksta nospiedumu vai autorizācija pēc sejas.&lt;/li>&lt;/ul></string>
+</resources>

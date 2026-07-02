@@ -1,2 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources/>
+<resources>
+    <array name="face_acquired_vendor" />
+    <string-array name="face_error_vendor">
+        <item>Sijil telah tamat tempoh</item>
+        <item>Penderia dilumpuhkan sementara</item>
+        <item>Ralat penentukuran</item>
+        <item>Tiada buka kunci wajah. Telefon terlalu panas.</item>
+        <item>Buka kunci wajah perlu disediakan sekali lagi</item>
+        <item>Laraskan pencahayaan dan jangan bergerak</item>
+    </string-array>
+</resources>

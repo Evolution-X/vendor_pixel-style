@@ -1,2 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources/>
+<resources>
+    <array name="face_acquired_vendor" />
+    <string-array name="face_error_vendor">
+        <item>સર્ટિફિકેટની સમયસીમા સમાપ્ત થઈ</item>
+        <item>સેન્સર હંગામી રીતે બંધ કર્યું છે</item>
+        <item>કેલિબ્રેશનમાં ભૂલ</item>
+        <item>ફેસ અનલૉક ઉપલબ્ધ નથી. ફોન ખૂબ ગરમ છે.</item>
+        <item>ફરી ફેસ અનલૉકનું સેટઅપ કરવું જરૂરી છે</item>
+        <item>લાઇટિંગની ગોઠવણી કરો અને સ્થિર પકડી રાખો</item>
+    </string-array>
+</resources>

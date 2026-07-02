@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="identity_check_setup_watch_description">আপনার বাড়ির মতো বিশ্বস্ত জায়গার বাইরে:&lt;ul>&lt;li>আপনার কানেক্ট করা Pixel Watch 3 বা এর পরবর্তী ভার্সনের কোনও স্মার্টওয়াচ থাকলে, আপনি হয় বায়োমেট্রিক্স বা নিজের পিন ব্যবহার করতে পারবেন&lt;/li>&lt;li>আপনার কানেক্ট করা Pixel Watch না থাকলে, আপনাকে ফিঙ্গারপ্রিন্ট বা ফেস আনলক ব্যবহার করতে হবে&lt;/li>&lt;/ul></string>
+</resources>

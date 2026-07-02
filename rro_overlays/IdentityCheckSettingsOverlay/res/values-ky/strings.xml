@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="identity_check_setup_watch_description">Үйүңүз сыяктуу ишенимдүү жерлерден башка жерлерде:&lt;ul>&lt;li>Эгер сизде туташкан Pixel Watch 3 же андан кийинки версиясы болсо, биометриканы же PIN кодду колдонсоңуз болот&lt;/li>&lt;li>Эгер сизде туташкан Pixel Watch сааты болбосо, Манжа изи же Жүзүнөн таанып ачуу функциясын колдонууңуз талап кылынат&lt;/li>&lt;/ul></string>
+</resources>

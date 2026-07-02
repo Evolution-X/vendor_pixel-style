@@ -1,2 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources/>
+<resources>
+    <array name="face_acquired_vendor" />
+    <string-array name="face_error_vendor">
+        <item>Το πιστοποιητικό έληξε</item>
+        <item>Ο αισθητήρας απενεργοποιήθηκε προσωρινά</item>
+        <item>Σφάλμα βαθμονόμησης</item>
+        <item>Ξεκλείδωμα με πρόσωπο μη διαθέσιμο. Υψηλή θερμοκρασία τηλεφώνου.</item>
+        <item>Το Ξεκλείδωμα με το πρόσωπο πρέπει να ρυθμιστεί ξανά</item>
+        <item>Ρυθμίστε φωτισμό και κρατήστε σταθερά τη συσκευή</item>
+    </string-array>
+</resources>

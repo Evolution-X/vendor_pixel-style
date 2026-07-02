@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <bool name="config_alwaysAllowDreamRotation">true</bool>
+    <bool name="config_dreamSwitcherEnabled">true</bool>
     <bool name="config_dreamsActivatedOnDockByDefault">false</bool>
     <bool name="config_dreamsActivatedOnPosturedByDefault">false</bool>
     <bool name="config_dreamsActivatedOnSleepByDefault">true</bool>

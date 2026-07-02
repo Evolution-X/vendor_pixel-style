@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="identity_check_setup_watch_description">Buiten vertrouwde plaatsen zoals je huis:&lt;ul>&lt;li>Als je een verbonden Pixel Watch 3 of hoger hebt, kun je biometrische gegevens of je pincode gebruiken.&lt;/li>&lt;li>Als je geen verbonden Pixel Watch hebt, moet je Ontgrendelen met vingerafdruk of Ontgrendelen via gezichtsherkenning gebruiken.&lt;/li>&lt;/ul></string>
+</resources>

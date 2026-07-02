@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="identity_check_setup_watch_description">За межами надійних місць (наприклад, вашого дому):&lt;ul>&lt;li>якщо у вас є підключений годинник Pixel Watch 3 або новішої моделі, ви можете скористатися біометрією або PIN-кодом;&lt;/li>&lt;li>якщо у вас немає підключеного годинника Pixel Watch, потрібно буде використовувати розблокування відбитком пальця або фейс-контроль.&lt;/li>&lt;/ul></string>
+</resources>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="identity_check_setup_watch_description">Khi không ở những địa điểm đáng tin cậy như nhà riêng:&lt;ul>&lt;li>Nếu đã kết nối Pixel Watch 3 trở lên, bạn có thể dùng dữ liệu sinh trắc học hoặc mã PIN&lt;/li>&lt;li>Nếu chưa kết nối Pixel Watch, bạn sẽ phải dùng tính năng Mở khoá bằng vân tay hoặc Mở khoá bằng khuôn mặt&lt;/li>&lt;/ul></string>
+</resources>

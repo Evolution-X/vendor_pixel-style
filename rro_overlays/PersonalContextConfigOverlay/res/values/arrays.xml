@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="config_allowlistPersonalContextHintPublishing">
+        <item>com.google.android.as</item>
+        <item>com.google.android.apps.pixel.psi</item>
+        <item>com.google.android.dialer</item>
+        <item>com.google.android.apps.messaging</item>
+        <item>com.google.android.apps.weather</item>
+        <item>com.google.android.apps.pixel.relationships</item>
+        <item>com.google.android.contacts</item>
+    </string-array>
+    <string-array name="config_allowlistPersonalContextHintReceiving">
+        <item>com.google.android.as</item>
+        <item>com.google.android.apps.pixel.psi</item>
+        <item>com.android.personalcontext</item>
+    </string-array>
+    <string-array name="config_allowlistPersonalContextInsightFiltering">
+        <item>com.google.android.apps.nexuslauncher</item>
+        <item>com.android.systemui</item>
+    </string-array>
+    <string-array name="config_allowlistPersonalContextInsightPublishing">
+        <item>com.google.android.apps.pixel.psi</item>
+        <item>com.android.personalcontext</item>
+    </string-array>
+    <string-array name="config_allowlistPersonalContextInsightReceiving">
+        <item>com.google.android.apps.nexuslauncher</item>
+        <item>com.google.android.dialer</item>
+        <item>com.google.android.apps.messaging</item>
+        <item>com.google.android.apps.weather</item>
+        <item>com.google.android.apps.pixel.relationships</item>
+        <item>com.google.android.contacts</item>
+        <item>com.google.android.apps.pixel.psi</item>
+        <item>com.google.android.projection.gearhead</item>
+        <item>com.android.systemui</item>
+        <item>com.google.android.as.oss</item>
+    </string-array>
+    <string-array name="config_allowlistPersonalContextVisualizers">
+        <item>com.google.android.apps.pixel.psi</item>
+        <item>com.android.systemui</item>
+        <item>com.google.android.as.oss</item>
+    </string-array>
+</resources>

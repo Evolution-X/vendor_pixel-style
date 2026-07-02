@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="identity_check_setup_watch_description">Väljaspool usaldusväärseid kohti (nt kodu):&lt;ul>&lt;li>kui teil on ühendatud Pixel Watch 3 või uuem kell, saate kasutada biomeetriat või oma PIN-koodi;&lt;/li>&lt;li>kui teil pole ühendatud Pixel Watchi, peate kasutama sõrmejäljega või näoga avamist.&lt;/li>&lt;/ul></string>
+</resources>

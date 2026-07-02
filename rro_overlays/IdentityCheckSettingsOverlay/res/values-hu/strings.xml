@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="identity_check_setup_watch_description">A megbízható helyeken (pl. az otthonán) kívül:&lt;ul>&lt;li>Ha van csatlakoztatott Pixel Watch 3 vagy újabb órája, használhat biometriát vagy PIN-kódot.&lt;/li>&lt;li>Ha nincs csatlakoztatott Pixel Watch órája, a Feloldás ujjlenyomattal vagy az Arcalapú feloldás funkciót kell használnia.&lt;/li>&lt;/ul></string>
+</resources>

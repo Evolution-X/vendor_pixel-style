@@ -1,2 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources/>
+<resources>
+    <array name="face_acquired_vendor" />
+    <string-array name="face_error_vendor">
+        <item>Հավաստագրի ժամկետը լրացել է</item>
+        <item>Սենսորը ժամանակավորապես անջատված է</item>
+        <item>Չափաբերման սխալ</item>
+        <item>Դեմքով ապակողպումը հասանելի չէ։ Հեռախոսը գերտաքացել է։</item>
+        <item>Դեմքով ապակողպումն անհրաժեշտ է նորից կարգավորել</item>
+        <item>Կարգավորեք լուսավորությունը և անշարժ պահեք սարքը</item>
+    </string-array>
+</resources>

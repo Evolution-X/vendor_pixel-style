@@ -1,0 +1,4 @@
+runtime_resource_overlay {
+    name: "SpoonOverlay2025",
+    product_specific: true,
+}

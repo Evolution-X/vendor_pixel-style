@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="identity_check_setup_watch_description">እንደ ቤትዎ ካሉ የታመኑ ቦታዎች ውጭ፦&lt;ul>&lt;li>የተገናኘ Pixel Watch 3 ወይም ከዚያ በላይ ካለዎት ባዮሜትሪክስ ወይም ፒንዎን መጠቀም ይችላሉ&lt;/li>&lt;li>የተገናኘ Pixel Watch ከሌለዎት የጣት አሻራ ወይም በመልክ መክፈት እንዲጠቀሙ ይጠየቃሉ&lt;/li>&lt;/ul></string>
+</resources>

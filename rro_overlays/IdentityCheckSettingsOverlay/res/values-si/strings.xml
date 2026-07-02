@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="identity_check_setup_watch_description">ඔබේ නිවස වැනි විශ්වාසදායක ස්ථාන වලින් පිටත:&lt;ul>&lt;li>ඔබට සම්බන්ධිත Pixel Watch 3 හෝ පසුව එකක් තිබේ නම්, ඔබට ජෛවමිතික හෝ ඔබේ PIN අංකය භාවිත කළ හැක&lt;/li>&lt;li>ඔබට සම්බන්ධිත Pixel Watch එකක් නොමැති නම්, ඔබට ඇඟිලි සලකුණ හෝ මුහුණෙන් අගුළු හැරීම භාවිත කිරීමට අවශ්‍ය වනු ඇත&lt;/li>&lt;/ul></string>
+</resources>

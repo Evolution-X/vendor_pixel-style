@@ -1,2 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources/>
+<resources>
+    <array name="face_acquired_vendor" />
+    <string-array name="face_error_vendor">
+        <item>Сертификат просрочен.</item>
+        <item>Датчик временно отключен.</item>
+        <item>Ошибка калибровки.</item>
+        <item>Фейсконтроль недоступен, так как телефон перегрелся.</item>
+        <item>Фейсконтроль нужно настроить повторно.</item>
+        <item>Отрегулируйте свет и держите устройство неподвижно.</item>
+    </string-array>
+</resources>

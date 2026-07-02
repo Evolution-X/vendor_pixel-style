@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="identity_check_setup_watch_description">Utenfor pålitelige steder som hjemmet ditt:&lt;ul>&lt;li>Hvis du har en tilkoblet Pixel Watch 3 eller nyere, kan du bruke enten biometri eller PIN-koden.&lt;/li>&lt;li>Hvis du ikke har noen tilkoblet Pixel Watch, må du bruke opplåsing med fingeravtrykk eller ansiktslås.&lt;/li>&lt;/ul></string>
+</resources>

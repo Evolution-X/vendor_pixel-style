@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="identity_check_setup_watch_description">Luotettujen paikkojen, kuten kodin, ulkopuolella:&lt;ul>&lt;li>Jos sinulla on yhdistetty Pixel Watch 3 tai uudempi, voit käyttää joko biometriikkaa tai PIN-koodia.&lt;/li>&lt;li>Jos sinulla ei ole yhdistettyä Pixel Watchia, sinun on käytettävä sormenjälkeä tai kasvojentunnistusavausta.&lt;/li>&lt;/ul></string>
+</resources>

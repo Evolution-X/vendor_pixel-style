@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="identity_check_setup_watch_description">အိမ်ကဲ့သို့သော ယုံကြည်ရသည့်နေရာများ၏ ပြင်ပ၌-&lt;ul>&lt;li>သင့်တွင် ချိတ်ဆက်ထားသော Pixel Watch 3 နှင့်အထက် ဗားရှင်းရှိပါက ဇီဝမက်ထရစ်များ (သို့) ပင်နံပါတ်ကို သုံးနိုင်သည်&lt;/li>&lt;li>သင့်တွင် ချိတ်ဆက်ထားသော Pixel Watch မရှိပါက ‘လက်ဗွေ’ (သို့) ‘မျက်နှာပြ လော့ခ်ဖွင့်ခြင်း’ ကို သုံးရပါမည်&lt;/li>&lt;/ul></string>
+</resources>

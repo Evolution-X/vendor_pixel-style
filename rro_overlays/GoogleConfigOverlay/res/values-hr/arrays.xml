@@ -1,2 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources/>
+<resources>
+    <array name="face_acquired_vendor" />
+    <string-array name="face_error_vendor">
+        <item>Certifikat je istekao</item>
+        <item>Senzor je privremeno onemogućen</item>
+        <item>Pogreška pri kalibraciji</item>
+        <item>Otključavanje licem nije dostupno. Telefon se previše zagrijao.</item>
+        <item>Potrebno je ponovno postaviti otključavanje licem</item>
+        <item>Prilagodite osvjetljenje i držite mirno</item>
+    </string-array>
+</resources>

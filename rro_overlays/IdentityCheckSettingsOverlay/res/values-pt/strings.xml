@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="identity_check_setup_watch_description">Fora de lugares de confiança, como sua casa:&lt;ul>&lt;li>Se você tiver um Pixel Watch 3 ou mais recente conectado, poderá usar a biometria ou o PIN.&lt;/li>&lt;li>Se não tiver, será necessário usar o desbloqueio facial ou por impressão digital.&lt;/li>&lt;/ul></string>
+</resources>

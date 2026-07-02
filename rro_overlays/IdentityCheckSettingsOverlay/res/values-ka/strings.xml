@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="identity_check_setup_watch_description">სანდო ადგილების, მაგალითად, თქვენი სახლის გარეთ:&lt;ul>&lt;li>თუ გაქვთ დაკავშირებული Pixel Watch 3 ან უფრო ახალი მოდელი, შეგიძლიათ გამოიყენოთ ბიომეტრიული მონაცემები ან თქვენი PIN-კოდი&lt;/li>&lt;li>თუ არ გაქვთ დაკავშირებული Pixel Watch, საჭირო იქნება თითის ანაბეჭდით ან სახით განბლოკვის გამოყენება&lt;/li>&lt;/ul></string>
+</resources>

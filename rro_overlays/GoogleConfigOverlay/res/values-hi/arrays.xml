@@ -1,2 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources/>
+<resources>
+    <array name="face_acquired_vendor" />
+    <string-array name="face_error_vendor">
+        <item>सर्टिफ़िकेट की समयसीमा खत्म हो गई है</item>
+        <item>सेंसर कुछ समय के लिए बंद कर दिया गया है</item>
+        <item>चेहरे की पहचान करने में गड़बड़ी हुई</item>
+        <item>फ़ेस अनलॉक की सुविधा उपलब्ध नहीं है. फ़ोन बहुत गर्म है.</item>
+        <item>फ़ेस अनलॉक की सुविधा को फिर से सेट अप करने की ज़रूरत है</item>
+        <item>रोशनी को अडजस्ट करें और डिवाइस को स्थिर रखें</item>
+    </string-array>
+</resources>

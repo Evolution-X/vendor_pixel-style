@@ -4,6 +4,9 @@
     <string name="biometric_dialog_default_subtitle">Hãy dùng khuôn mặt hoặc vân tay của bạn để tiếp tục</string>
     <string name="biometric_or_screen_lock_app_setting_name">Dùng khuôn mặt, vân tay hoặc phương thức khóa màn hình</string>
     <string name="biometric_or_screen_lock_dialog_default_subtitle">Hãy dùng khuôn mặt, vân tay hoặc phương thức khóa màn hình của bạn để tiếp tục</string>
+    <string name="face_recalibrate_notification_content">Bạn không dùng được tính năng mở khoá bằng khuôn mặt cho đến khi đăng ký lại</string>
+    <string name="face_recalibrate_notification_name">Mở khoá bằng khuôn mặt</string>
+    <string name="face_recalibrate_notification_title">Vui lòng đăng ký lại khuôn mặt của bạn</string>
     <string name="harmful_app_warning_title">Cảnh báo của Play Protect</string>
-    <string name="safety_protection_display_text">&lt;font face=\"google-sans\"&gt;Được &lt;/font&gt;&lt;font face=\"google-sans-medium\"&gt;Android&lt;/font&gt;&lt;font face=\"google-sans\"&gt; bảo vệ&lt;/font&gt;</string>
+    <string name="safety_protection_display_text">&lt;font face=\"google-sans\">Được &lt;/font>&lt;font face=\"google-sans-medium\">Android&lt;/font>&lt;font face=\"google-sans\"> bảo vệ&lt;/font></string>
 </resources>

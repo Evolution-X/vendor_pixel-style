@@ -1,15 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="config_accessComputerControlKnownSigners">
-        <item>1975B2F17177BC89A5DFF31F9E64A6CAE281A53DC1D1D59B1D147FE1C82AFA00</item>
-        <item>F0FD6C5B410F25CB25C3B53346C8972FAE30F8EE7411DF910480AD6B2D60DB83</item>
-        <item>7CE83C1B71F3D572FED04C8D40C5CB10FF75E6D87D9DF6FBD53F0468C2905053</item>
-    </string-array>
     <string-array name="config_allowedSecureInstantAppSettings">
         <item>advertising_id</item>
         <item>limit_ad_tracking</item>
     </string-array>
-    <string-array name="config_appFunctionDeviceSettingsPackages">
+    <string-array name="config_appInteractionDeviceAssistancePackages">
         <item>com.android.settings</item>
         <item>com.google.android.permissioncontroller</item>
         <item>com.google.android.apps.wellbeing</item>
@@ -21,6 +16,7 @@
     </string-array>
     <string-array name="config_companionDeviceCerts">
         <item>48:ED:00:58:D1:B6:63:8E:39:A6:E4:C2:DF:1C:4D:5F:DF:59:3F:69:6B:F3:1B:09:A8:8F:93:14:1E:AF:60:0F</item>
+        <item>B0:CC:8F:45:4E:F3:42:C5:81:A2:EC:ED:1C:AD:BD:D4:ED:32:03:F4:E0:21:15:0C:97:53:6D:B9:6E:F8:60:FE</item>
     </string-array>
     <string-array name="config_companionDevicePackages">
         <item>com.google.android.apps.wear.companion</item>
@@ -37,7 +33,32 @@
     <string-array name="config_ephemeralResolverPackage">
         <item>com.google.android.gms</item>
     </string-array>
+    <integer-array name="config_face_acquire_biometricprompt_ignorelist">
+        <item>1</item>
+        <item>2</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+    </integer-array>
+    <integer-array name="config_face_acquire_enroll_ignorelist">
+        <item>13</item>
+    </integer-array>
     <array name="config_face_acquire_keyguard_ignorelist"/>
+    <array name="config_face_acquire_vendor_biometricprompt_ignorelist"/>
+    <array name="config_face_acquire_vendor_enroll_ignorelist"/>
+    <array name="config_face_acquire_vendor_keyguard_ignorelist"/>
     <string-array name="config_fontManagerServiceCerts">
         <item>/product/etc/security/fsverity/gms_fsverity_cert.der</item>
     </string-array>
@@ -62,6 +83,10 @@
         <item>com.android.vending</item>
         <item>com.google.android.gms</item>
     </string-array>
+    <string-array name="config_locationProviderPackageNames">
+        <item>com.google.android.gms</item>
+        <item>com.android.location.fused</item>
+    </string-array>
     <string-array name="config_loggable_dream_prefixes">
         <item>com.google.</item>
         <item>com.android.</item>
@@ -83,6 +108,15 @@
         <item>com.google.android.accessibility.switchaccess/com.android.switchaccess.SwitchAccessService</item>
         <item>com.android.systemui.accessibility.accessibilitymenu/com.android.systemui.accessibility.accessibilitymenu.AccessibilityMenuService</item>
         <item>com.google.android.marvin.talkback/com.google.android.accessibility.selecttospeak.SelectToSpeakService</item>
+    </string-array>
+    <array name="face_acquired_vendor"/>
+    <string-array name="face_error_vendor">
+        <item>Certificate expired</item>
+        <item>Sensor temporarily disabled</item>
+        <item>Calibration error</item>
+        <item>Face unlock unavailable. Phone is too hot.</item>
+        <item>Face unlock needs to be set up again</item>
+        <item>Adjust lighting and hold steady</item>
     </string-array>
     <string-array name="vendor_cross_profile_apps">
         <item>com.google.android.googlequicksearchbox</item>

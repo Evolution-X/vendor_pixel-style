@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="identity_check_setup_watch_description">તમારા ઘર જેવી જાણીતી જગ્યાઓની બહાર:&lt;ul>&lt;li>જો તમારી પાસે કનેક્ટેડ Pixel Watch 3 કે તેના પછીના વર્ઝનવાળી વૉચ હોય, તો તમે બાયોમેટ્રિક્સ કે તમારા પિનનો ઉપયોગ કરી શકો છો&lt;/li>&lt;li>જો તમારી પાસે કનેક્ટેડ Pixel Watch ન હોય, તો તમારે ફિંગરપ્રિન્ટ કે ફેસ અનલૉકની સુવિધાનો ઉપયોગ કરવો પડશે&lt;/li>&lt;/ul></string>
+</resources>

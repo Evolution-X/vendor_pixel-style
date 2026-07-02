@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="identity_check_setup_watch_description">"Al di fuori di posti attendibili come la tua casa:&lt;ul>&lt;li>Se hai un Pixel Watch 3 o modelli successivi collegato, puoi usare la biometria o il PIN&lt;/li>&lt;li>Se non hai un Pixel Watch collegato, dovrai usare lo Sblocco con l'Impronta o con il Volto&lt;/li>&lt;/ul>"</string>
+</resources>

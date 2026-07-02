@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="identity_check_setup_watch_description">Ne patikimose vietose, pvz., namuose:&lt;ul>&lt;li>jei turite prijungtą „Pixel Watch 3“ ar naujesnį įrenginį, galite naudoti biometrinius duomenis arba PIN kodą;&lt;/li>&lt;li>jei neturite prijungto „Pixel Watch“, turėsite naudoti atrakinimą piršto atspaudu arba atrakinimą pagal veidą.&lt;/li>&lt;/ul></string>
+</resources>

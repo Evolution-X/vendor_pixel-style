@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="identity_check_setup_watch_description">Վստահելի վայրերից, օրինակ՝ ձեր տնից դուրս գտնվելիս․&lt;ul>&lt;li>Եթե ունեք միացված Pixel Watch 3 կամ ավելի նոր սարք, կարող եք օգտագործել կենսաչափական տվյալներ կամ PIN կոդ&lt;/li>&lt;li>Եթե չունեք միացված Pixel Watch, ապա պետք է օգտագործեք միայն մատնահետքով կամ դեմքով ապակողպում&lt;/li>&lt;/ul></string>
+</resources>

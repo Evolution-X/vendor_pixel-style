@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="identity_check_setup_watch_description">ನಿಮ್ಮ ಮನೆಯಂತಹ ವಿಶ್ವಾಸಾರ್ಹ ಸ್ಥಳಗಳಲ್ಲದೆ:&lt;ul>&lt;li>ನೀವು ಕನೆಕ್ಟ್ ಮಾಡಲಾದ Pixel Watch 3 ಅಥವಾ ನಂತರದ ಆವೃತ್ತಿಯನ್ನು ಹೊಂದಿದ್ದರೆ, ನೀವು ಬಯೋಮೆಟ್ರಿಕ್ಸ್ ಅಥವಾ ನಿಮ್ಮ ಪಿನ್ ಅನ್ನು ಬಳಸಬಹುದು&lt;/li>&lt;li>ನೀವು ಕನೆಕ್ಟ್ ಮಾಡಲಾದ Pixel Watch ಅನ್ನು ಹೊಂದಿಲ್ಲದಿದ್ದರೆ, ನೀವು ಫಿಂಗರ್‌ಪ್ರಿಂಟ್ ಅಥವಾ ಫೇಸ್ ಅನ್‌ಲಾಕ್ ಅನ್ನು ಬಳಸಬೇಕಾಗುತ್ತದೆ&lt;/li>&lt;/ul></string>
+</resources>

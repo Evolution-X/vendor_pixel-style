@@ -1,2 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources/>
+<resources>
+    <array name="face_acquired_vendor" />
+    <string-array name="face_error_vendor">
+        <item>ໃບຮັບຮອງໝົດອາຍຸແລ້ວ</item>
+        <item>ເຊັນເຊີຖືກປິດການນຳໃຊ້ຊົ່ວຄາວ</item>
+        <item>ຂໍ້ຜິດພາດໃນການປັບທຽບ</item>
+        <item>ປົດລັອກດ້ວຍໜ້າບໍ່ພ້ອມໃຫ້ນຳໃຊ້. ໂທລະສັບຮ້ອນເກີນໄປ.</item>
+        <item>ຕ້ອງຕັ້ງຄ່າການປົດລັອກດ້ວຍໜ້າອີກຄັ້ງ</item>
+        <item>ປັບແສງ ແລະ ຖືໄວ້ໃຫ້ທ່ຽງ</item>
+    </string-array>
+</resources>

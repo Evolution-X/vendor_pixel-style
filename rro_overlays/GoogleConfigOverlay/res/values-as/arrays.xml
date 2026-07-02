@@ -1,2 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources/>
+<resources>
+    <array name="face_acquired_vendor" />
+    <string-array name="face_error_vendor">
+        <item>প্ৰমাণপত্ৰৰ ম্যাদ উকলিছে</item>
+        <item>ছেন্সৰ সাময়িকভাৱে অক্ষম কৰা হৈছে</item>
+        <item>কেলিব্ৰেশ্বন আসোঁৱাহ</item>
+        <item>ফে’চ আনলকৰ সুবিধা উপলব্ধ নহয়। ফ’নটো বেছি গৰম হৈছে।</item>
+        <item>ফে’চ আনলক পুনৰ ছেট আপ কৰাৰ প্রয়োজন</item>
+        <item>উজ্জ্বলতা মিলাওক আৰু স্থিৰ কৰি ৰাখক</item>
+    </string-array>
+</resources>

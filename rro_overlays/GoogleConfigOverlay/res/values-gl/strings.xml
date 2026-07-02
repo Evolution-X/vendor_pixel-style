@@ -4,6 +4,9 @@
     <string name="biometric_dialog_default_subtitle">Para continuar, usa o desbloqueo facial ou a impresión dixital</string>
     <string name="biometric_or_screen_lock_app_setting_name">Usar desbloqueo facial, impresión dixital ou bloqueo de pantalla</string>
     <string name="biometric_or_screen_lock_dialog_default_subtitle">Para continuar, usa o desbloqueo facial, a impresión dixital ou o bloqueo de pantalla</string>
+    <string name="face_recalibrate_notification_content">Pode que non funcione o desbloqueo facial ata que non te volvas inscribir</string>
+    <string name="face_recalibrate_notification_name">Desbloqueo facial</string>
+    <string name="face_recalibrate_notification_title">Rexistra de novo a túa cara</string>
     <string name="harmful_app_warning_title">Advertencia de Play Protect</string>
-    <string name="safety_protection_display_text">&lt;font face=\"google-sans\"&gt;Coa protección de &lt;/font&gt;&lt;font face=\"google-sans-medium\"&gt;Android&lt;/font&gt;</string>
+    <string name="safety_protection_display_text">&lt;font face=\"google-sans\">Coa protección de &lt;/font>&lt;font face=\"google-sans-medium\">Android&lt;/font></string>
 </resources>

@@ -1,2 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources/>
+<resources>
+    <array name="face_acquired_vendor" />
+    <string-array name="face_error_vendor">
+        <item>Сертификатът е изтекъл</item>
+        <item>Сензорът е временно деактивиран</item>
+        <item>Грешка при калибрирането</item>
+        <item>„Отключване с лице“ не е налице. Телефонът е твърде горещ.</item>
+        <item>Трябва да настроите отново функцията „Отключване с лице“</item>
+        <item>Коригирайте осветлението и не мърдайте</item>
+    </string-array>
+</resources>

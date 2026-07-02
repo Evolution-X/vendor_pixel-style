@@ -1,2 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources/>
+<resources>
+    <array name="face_acquired_vendor" />
+    <string-array name="face_error_vendor">
+        <item>Das Zertifikat ist abgelaufen</item>
+        <item>Der Sensor ist vorübergehend deaktiviert</item>
+        <item>Kalibrierungsfehler</item>
+        <item>Entsperrung per Gesichtserkennung nicht verfügbar. Das Smartphone ist zu heiß.</item>
+        <item>Die Entsperrung per Gesichtserkennung muss neu eingerichtet werden</item>
+        <item>Beleuchtung anpassen und Gerät ruhig halten</item>
+    </string-array>
+</resources>

@@ -1,2 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources/>
+<resources>
+    <array name="face_acquired_vendor" />
+    <string-array name="face_error_vendor">
+        <item>সার্টিফিকেটের মেয়াদ শেষ হয়ে গেছে</item>
+        <item>সেন্সর অস্থায়ীভাবে বন্ধ আছে</item>
+        <item>ক্যালিব্রেশন সংক্রান্ত সমস্যা</item>
+        <item>ফেস আনলক উপলভ্য নেই। ফোন খুব গরম হয়ে গেছে।</item>
+        <item>ফেস আনলক আবার সেট-আপ করতে হবে</item>
+        <item>আলো অ্যাডজাস্ট করুন এবং স্থিরভাবে ধরে থাকুন</item>
+    </string-array>
+</resources>

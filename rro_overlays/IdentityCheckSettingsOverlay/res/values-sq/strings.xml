@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="identity_check_setup_watch_description">Jashtë vendeve të besuara si shtëpia jote:&lt;ul>&lt;li>Nëse ke një orë Pixel Watch 3 ose version më të ri të lidhur, mund të përdorësh të dhënat biometrike ose kodin tënd PIN&lt;/li>&lt;li>Nëse nuk ke një orë Pixel Watch të lidhur, do të të kërkohet të përdorësh \"Shkyçjen me gjurmën e gishtit\" ose \"Shkyçjen me fytyrë\"&lt;/li>&lt;/ul></string>
+</resources>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="identity_check_setup_watch_description">Танай гэр зэрэг итгэмжлэгдсэн газраас гадуур:&lt;ul>&lt;li>Хэрэв танд холбогдсон Pixel Watch 3 эсвэл түүнээс хойших загвар байгаа бол та биометр эсвэл ПИН-ийнхээ аль нэгийг ашиглаж болно&lt;/li>&lt;li>Хэрэв танд холбогдсон Pixel Watch байхгүй бол танаас Хурууны хээ, Царайгаар түгжээ тайлах онцлогийг ашиглахыг шаардана&lt;/li>&lt;/ul></string>
+</resources>

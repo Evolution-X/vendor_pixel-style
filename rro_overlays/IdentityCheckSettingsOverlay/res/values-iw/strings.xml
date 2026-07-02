@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="identity_check_setup_watch_description">‏מחוץ למקומות בטוחים, כמו הבית שלך:&lt;ul>&lt;li>אם יש לך Pixel Watch 3 ואילך מחובר, אפשר להשתמש בנתונים ביומטריים או בקוד האימות&lt;/li>&lt;li>אם אין לך שעון מחובר, צריך להשתמש בטביעת אצבע או בפתיחה בזיהוי פנים&lt;/li>&lt;/ul></string>
+</resources>

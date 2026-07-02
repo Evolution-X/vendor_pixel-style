@@ -1,2 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources/>
+<resources>
+    <array name="face_acquired_vendor" />
+    <string-array name="face_error_vendor">
+        <item>Час дзеяння сертыфіката скончыўся</item>
+        <item>Датчык часова адключаны</item>
+        <item>Памылка каліброўкі</item>
+        <item>Распазнаванне твару недаступнае. Тэлефон перагрэўся.</item>
+        <item>Функцыю распазнавання твару неабходна паўторна наладзіць</item>
+        <item>Адрэгулюйце асвятленне і трымайце прыладу нерухома</item>
+    </string-array>
+</resources>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="identity_check_setup_watch_description">집과 같이 신뢰할 수 있는 장소가 아닌 곳에서는 다음 방식으로 인증할 수 있습니다.&lt;ul>&lt;li>연결된 Pixel Watch 3 이상이 있는 경우 생체 인식 또는 PIN을 사용할 수 있습니다.&lt;/li>&lt;li>연결된 Pixel Watch가 없는 경우 지문 또는 얼굴 인식 잠금 해제를 사용해야 합니다.&lt;/li>&lt;/ul></string>
+</resources>

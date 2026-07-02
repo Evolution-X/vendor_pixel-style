@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="identity_check_setup_watch_description">Mimo dôveryhodných miest, ako je váš domov:&lt;ul>&lt;li>ak máte pripojené hodinky Pixel Watch 3 alebo novšie, môžete použiť biometriu alebo PIN;&lt;/li>&lt;li>ak nemáte pripojené hodinky Pixel Watch, budete musieť použiť odomknutie odtlačkom prsta alebo tvárou.&lt;/li>&lt;/ul></string>
+</resources>

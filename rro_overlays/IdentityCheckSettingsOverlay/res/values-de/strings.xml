@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="identity_check_setup_watch_description">Außerhalb vertrauenswürdiger Orte wie deinem Zuhause:&lt;ul>&lt;li>Wenn du eine verbundene Pixel Watch 3 oder höher hast, kannst du entweder biometrische Daten oder deine PIN verwenden&lt;/li>&lt;li>Wenn du keine verbundene Pixel Watch hast, musst du die Entsperrung per Fingerabdruck oder Gesichtserkennung verwenden&lt;/li>&lt;/ul></string>
+</resources>

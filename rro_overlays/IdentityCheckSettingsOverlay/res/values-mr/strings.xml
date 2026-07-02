@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="identity_check_setup_watch_description">तुमच्या घरासारख्या विश्वसनीय ठिकाणांच्या बाहेर:&lt;ul>&lt;li>तुमच्याकडे कनेक्ट केलेले Pixel Watch 3 किंवा त्यानंतरची आवृत्ती असल्यास, तुम्ही बायोमेट्रिक किंवा तुमचा पिन वापरू शकता&lt;/li>&lt;li>तुमच्याकडे कनेक्ट केलेले Pixel Watch नसल्यास, तुम्हाला फिंगरप्रिंट किंवा फेस अनलॉक वापरावे लागेल&lt;/li>&lt;/ul></string>
+</resources>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="identity_check_setup_watch_description">Изван поузданих места, попут дома:&lt;ul>&lt;li>Ако имате повезан Pixel Watch 3 или новији, можете да користите биометријске податке или PIN&lt;/li>&lt;li>Ако немате повезан Pixel Watch, мораћете да користите откључавање отиском прста или откључавање лицем&lt;/li>&lt;/ul></string>
+</resources>
