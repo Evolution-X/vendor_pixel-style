@@ -9,7 +9,7 @@
     <string name="config_defaultAccessibilityNotificationSound">Effect_Tick.ogg</string>
     <string name="config_defaultAccessibilityService">com.google.android.marvin.talkback/.TalkBackService</string>
     <string name="config_defaultAssistant">com.google.android.googlequicksearchbox</string>
-    <string name="config_defaultAssistantAccessComponent">com.google.android.ext.services/android.ext.services.notification.Assistant</string>
+    <!--<string name="config_defaultAssistantAccessComponent">com.google.android.ext.services/android.ext.services.notification.Assistant</string>-->
     <string name="config_defaultAutofillService">com.google.android.gms/.autofill.service.AutofillService</string>
     <string name="config_defaultCaptivePortalLoginPackageName">com.google.android.captiveportallogin</string>
     <string name="config_defaultCredentialManagerAutofillService">com.android.credentialmanager/com.android.credentialmanager.autofill.CredentialAutofillService</string>
@@ -40,7 +40,7 @@
     <string name="config_persistentDataPackageName">com.google.android.gms</string>
     <string name="config_primaryLocationTimeZoneProviderPackageName">com.google.android.gms</string>
     <string name="config_secondaryLocationTimeZoneProviderPackageName" />
-    <string name="config_servicesExtensionPackage">com.google.android.ext.services</string>
+    <!--<string name="config_servicesExtensionPackage">com.google.android.ext.services</string>-->
     <string name="config_sharedConnectivityServiceIntentAction">com.google.android.gms.magictether.BIND</string>
     <string name="config_sharedConnectivityServicePackage">com.google.android.gms</string>
     <string name="config_systemActivityRecognizer">com.google.android.gms</string>
