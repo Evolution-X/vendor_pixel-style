@@ -1,4 +1,0 @@
-android_app {
-    name: "WebAppServiceGoogle",
-    sdk_version: "system_current",
-}

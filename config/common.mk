@@ -14,12 +14,6 @@
 # limitations under the License.
 #
 
-# APEX
-DISABLE_DEXPREOPT_CHECK := true
-
-PRODUCT_PACKAGES += \
-    com.google.android.webapp
-
 # GMS client id base
 ifeq ($(PRODUCT_GMS_CLIENTID_BASE),)
 PRODUCT_PRODUCT_PROPERTIES += \
