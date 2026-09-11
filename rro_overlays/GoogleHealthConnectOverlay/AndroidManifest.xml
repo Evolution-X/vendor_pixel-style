@@ -2,6 +2,7 @@
     package="com.android.healthconnect.overlay_gms">
     <overlay android:targetPackage="com.android.healthconnect.controller"
                    android:targetName="HealthConnectStyles"
+                   android:resourcesMap="@xml/overlays"
                    android:isStatic="true"
                    android:priority="0"/>
 </manifest>
