@@ -1,6 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.android.server.telecom.auto_generated_rro_product___gms">
-    <overlay android:targetPackage="com.android.server.telecom"
+    <overlay android:targetPackage="com.android.server.telecom.resources"
+                   android:targetName="TelecomLibCustomization"
                    android:isStatic="true"
                    android:priority="1"/>
 </manifest>
