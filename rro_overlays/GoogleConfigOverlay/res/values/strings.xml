@@ -49,7 +49,6 @@
     <string name="config_systemCompanionDeviceProvider">com.google.android.gms</string>
     <string name="config_systemContacts">com.google.android.contacts</string>
     <string name="config_systemDependencyInstaller">com.google.android.gms</string>
-    <string name="config_systemFinancedDeviceController">com.google.android.devicelockcontroller</string>
     <string name="config_systemGallery">com.google.android.apps.photos</string>
     <string name="config_systemGameService">com.google.android.gms</string>
     <string name="config_systemSettingsIntelligence">com.google.android.settings.intelligence</string>
