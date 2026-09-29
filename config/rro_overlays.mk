@@ -29,8 +29,6 @@ PRODUCT_PACKAGES += \
     GoogleHealthConnectOverlay \
     GooglePermissionControllerOverlay \
     GooglePermissionControllerSafetyCenterOverlay \
-    GoogleSettingsOverlay \
-    GoogleSystemUIOverlay \
     GoogleWebViewOverlay \
     IdentityCheckSettingsOverlay \
     ManagedProvisioningPixelOverlay \
@@ -48,10 +46,8 @@ PRODUCT_PACKAGES += \
     PixelDocumentsUIGoogleOverlay \
     PixelLauncherNoGestureHintOverlay \
     PixelLauncherOverlayCustom \
-    PixelSettingsGoogle \
     PixelSettingsProvider \
     PixelSetupWizardOverlayExpressive \
-    PixelSystemUIGoogle \
     PixelTeleService \
     PixelTelecom \
     Pixelframework-res \
