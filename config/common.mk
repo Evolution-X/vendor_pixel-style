@@ -45,6 +45,7 @@ PRODUCT_PRODUCT_PROPERTIES += \
     setupwizard.feature.show_support_link_in_deferred_setup=false \
     setupwizard.feature.skip_button_use_mobile_data.carrier1839=true \
     setupwizard.personal_safety_suw_enabled=true \
+    setupwizard.personal_safety_suw_satellite_sos_visible?=false \
     setupwizard.theme=glif_expressive \
     setupwizard.feature.default_locale_enhancement_enabled=true \
     setupwizard.feature.device_info_icon_enabled=true \
