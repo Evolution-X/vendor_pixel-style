@@ -20,15 +20,15 @@ PRODUCT_PACKAGES += \
     AvatarPickerPixelOverlay \
     CellBroadcastReceiverOverlay \
     CellBroadcastServiceOverlay \
-    GlanceableHubConfigOverlay \
-    GlanceableHubSettingsConfigOverlay \
-    GlanceableHubSettingsConfigOverlay2022 \
-    GlanceableHubSysuiConfigOverlay \
-    GoogleConfigOverlay \
+    GlanceableHubConfigOverlayGMS \
+    GlanceableHubSettingsConfigOverlayGMS \
+    GlanceableHubSettingsConfigOverlay2022GMS \
+    GlanceableHubSysuiConfigOverlayGMS \
+    GoogleConfigOverlayGMS \
     GoogleDeviceLockControllerOverlay \
     GoogleHealthConnectOverlay \
     GooglePermissionControllerOverlay \
-    GooglePermissionControllerSafetyCenterOverlay \
+    GooglePermissionControllerSafetyCenterOverlayGMS \
     GoogleWebViewOverlay \
     IdentityCheckSettingsOverlay \
     ManagedProvisioningPixelOverlay \
@@ -36,10 +36,10 @@ PRODUCT_PACKAGES += \
     PixelAccessibilityMenu \
     PixelBuiltInPrintService \
     PixelConfigOverlay2018 \
-    PixelConfigOverlay2019 \
+    PixelConfigOverlay2019GMS \
     PixelConfigOverlay2019Midyear \
-    PixelConfigOverlay2021 \
-    PixelConfigOverlayCommon \
+    PixelConfigOverlay2021GMS \
+    PixelConfigOverlayCommonGMS \
     PixelConnectivityOverlay2024 \
     PixelContactsProvider \
     PixelDeviceDiagnostics \

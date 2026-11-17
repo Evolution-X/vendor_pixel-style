@@ -1,4 +1,4 @@
 runtime_resource_overlay {
-    name: "PixelConfigOverlayCommon",
+    name: "PixelConfigOverlayCommonGMS",
     product_specific: true,
 }

@@ -4,6 +4,6 @@
 //
 
 runtime_resource_overlay {
-    name: "GlanceableHubSettingsConfigOverlay",
+    name: "GlanceableHubSettingsConfigOverlay2022GMS",
     product_specific: true,
 }

@@ -1,4 +1,4 @@
 runtime_resource_overlay {
-    name: "GoogleConfigOverlay",
+    name: "PixelConfigOverlay2019GMS",
     product_specific: true,
 }
