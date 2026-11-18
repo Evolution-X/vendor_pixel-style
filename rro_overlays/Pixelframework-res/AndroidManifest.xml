@@ -2,5 +2,5 @@
     package="android.auto_generated_rro_product___gms">
     <overlay android:targetPackage="android"
                    android:isStatic="true"
-                   android:priority="1"/>
+                   android:priority="2"/>
 </manifest>
